@@ -1,0 +1,44 @@
+{
+ "v1+v2 J vs F": {
+  "diff": 0.061,
+  "queries": 88,
+  "wins": 60,
+  "losses": 23,
+  "p": 0.0003
+ },
+ "v1+v2 J vs H": {
+  "diff": 0.0355,
+  "queries": 88,
+  "wins": 51,
+  "losses": 37,
+  "p": 0.0793
+ },
+ "v1+v2 H vs F": {
+  "diff": 0.0255,
+  "queries": 88,
+  "wins": 48,
+  "losses": 40,
+  "p": 0.1321
+ },
+ "v1b+v2 J vs F": {
+  "diff": 0.0343,
+  "queries": 91,
+  "wins": 54,
+  "losses": 32,
+  "p": 0.0596
+ },
+ "v1b+v2 J vs H": {
+  "diff": 0.0127,
+  "queries": 91,
+  "wins": 49,
+  "losses": 42,
+  "p": 0.5976
+ },
+ "v1b+v2 H vs F": {
+  "diff": 0.0216,
+  "queries": 91,
+  "wins": 47,
+  "losses": 44,
+  "p": 0.2563
+ }
+}

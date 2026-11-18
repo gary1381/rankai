@@ -1,0 +1,85 @@
+{
+ "J": {
+  "old": {
+   "all": {
+    "queries": 48,
+    "covered": 16,
+    "good_in_top10": 1.33,
+    "P@5": 0.133
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 4,
+    "good_in_top10": 0.5,
+    "P@5": 0.062
+   },
+   "en": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.56,
+    "P@5": 0.175
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.94,
+    "P@5": 0.163
+   },
+   "no buyer": {
+    "queries": 42,
+    "covered": 15,
+    "good_in_top10": 1.5,
+    "P@5": 0.148
+   }
+  },
+  "new": {
+   "all": {
+    "queries": 48,
+    "covered": 16,
+    "good_in_top10": 1.33,
+    "P@5": 0.142
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 4,
+    "good_in_top10": 0.62,
+    "P@5": 0.088
+   },
+   "en": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.56,
+    "P@5": 0.175
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.81,
+    "P@5": 0.163
+   },
+   "no buyer": {
+    "queries": 42,
+    "covered": 15,
+    "good_in_top10": 1.5,
+    "P@5": 0.157
+   }
+  },
+  "newly_covered": [
+   "gzh07 兼职远程中文校对，熟悉学术论文格式"
+  ],
+  "lost": [
+   "gzh11 深圳远程用户增长实习，懂 Excel 和问卷分析"
+  ],
+  "mcnemar_p": 1.0,
+  "mcnemar_p_no_buyer": 1.0,
+  "p5_signflip_p": 1.0,
+  "good_by_source": {
+   "himalayas": 45,
+   "greenhouse": 8,
+   "ncss": 5,
+   "wwr": 3,
+   "jobicy": 2,
+   "arbeitnow": 1
+  }
+ }
+}

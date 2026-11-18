@@ -1,0 +1,44 @@
+{
+ "items": 756,
+ "labeled": 756,
+ "reused": 0,
+ "missing": 0,
+ "composer_vs_grok": {
+  "n": 756,
+  "exact": 0.672,
+  "within1": 0.971,
+  "weighted_kappa": 0.663
+ },
+ "gpt_reviewed": 0,
+ "rel_distribution": {
+  "0-1": 483,
+  "1-2": 218,
+  "2-3": 49,
+  "3-4": 6
+ },
+ "not_opportunity": 8,
+ "spread_ge2": [
+  "kzh02:14822",
+  "kzh02:26026",
+  "kzh10:16830",
+  "kzh16:13100",
+  "ken01:6091",
+  "ken01:20347",
+  "ken02:10359",
+  "ken02:14789",
+  "ken02:14822",
+  "ken05:13098",
+  "ken05:13100",
+  "ken09:9610",
+  "ken13:10868",
+  "ken15:19269",
+  "kmix01:13396",
+  "kmix01:20347",
+  "kmix03:17560",
+  "kmix05:13100",
+  "kmix05:16771",
+  "kmix09:3331",
+  "kmix09:15729",
+  "kmix09:25299"
+ ]
+}

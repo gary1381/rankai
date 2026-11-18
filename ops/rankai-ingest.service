@@ -1,0 +1,24 @@
+# Daily corpus refresh for rankai: fetch every default source (rankai.ingest keeps each source's documented limits;
+# opt-in sources such as ncss are not fetched unless you add them to the command), embed new or changed postings,
+# then have Claude Haiku (API) label the field of new live postings, capped at $0.50 a run. See ops/README.md.
+#
+# Template: install with ops/install.sh, or copy to ~/.config/systemd/user/ and replace RANKAI_HOME and RANKAI_PYTHON
+# (the checkout and the Python interpreter that has the dependencies). %h is your home directory.
+[Unit]
+Description=rankai corpus refresh (ingest + vectors + field labels)
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=RANKAI_HOME
+Environment=OMP_NUM_THREADS=1 PYTHONPATH=RANKAI_HOME RANKAI_ENV_FILE=%h/.config/rankai/env
+Nice=10
+# One core is plenty: embeddings and reranking are done by the model services, not in this process. User systemd
+# often has no cpu controller (CPUQuota is then ignored); add CPUAffinity=<core> to pin the job to one core.
+CPUQuota=100%
+IOSchedulingClass=idle
+TimeoutStartSec=8h
+# Two writers lock each other out ("database is locked") and would double a slow source's request rate: skip the
+# day when a manual ingest, vectors or judge run is still going. [p] keeps the pattern from matching this shell.
+ExecCondition=/bin/sh -c 'mkdir -p logs; if pgrep -f "[p]ython -m rankai (ingest|vectors|judge-live)" > /dev/null; then echo "== $(date -Is) skipped: an ingest, vectors or judge run is active" >> logs/ingest_daily.log; exit 1; fi'
+ExecStart=/bin/bash -c 'echo "== $(date -Is) ingest" >> logs/ingest_daily.log; RANKAI_PYTHON -m rankai ingest >> logs/ingest_daily.log 2>&1; echo "== vectors" >> logs/ingest_daily.log; RANKAI_PYTHON -m rankai vectors >> logs/ingest_daily.log 2>&1; echo "== judge" >> logs/ingest_daily.log; RANKAI_PYTHON -m rankai judge-live --max-usd 0.5 --workers 2 >> logs/ingest_daily.log 2>&1; echo "== $(date -Is) done" >> logs/ingest_daily.log'

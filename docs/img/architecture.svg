@@ -1,0 +1,58 @@
+<svg style="color:#222" viewBox="0 0 1200 650" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="rankai architecture: once a day every source is fetched into SQLite, embedded, and new postings get a field label from Claude Haiku; each search goes through a Haiku rewrite, hybrid recall, Qwen3 rerank, the learned ranker L and filters, and is served over MCP, a local search page, the CLI and JSONL logs" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">
+<rect width="1200" height="650" fill="#fff"/><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="currentColor"/></marker></defs>
+<g fill="currentColor" font-size="12" font-weight="600" opacity="0.75">
+<text x="30" y="34">Once a day in the background (systemd timer, one CPU core, about 1.5 h)</text>
+<text x="30" y="300">Each search (5–20 s)</text></g>
+<g fill="none" stroke="currentColor" stroke-width="1.2">
+<g fill="currentColor" fill-opacity="0.05">
+<rect x="30" y="56" width="240" height="130" rx="6"/>
+<rect x="340" y="76" width="160" height="90" rx="6"/>
+<rect x="570" y="76" width="170" height="90" rx="6" stroke-width="2"/>
+<rect x="830" y="56" width="230" height="64" rx="6"/>
+<rect x="830" y="140" width="230" height="64" rx="6"/>
+<rect x="30" y="380" width="140" height="90" rx="6"/>
+<rect x="215" y="380" width="150" height="90" rx="6"/>
+<rect x="410" y="380" width="160" height="90" rx="6"/>
+<rect x="615" y="380" width="140" height="90" rx="6"/>
+<rect x="800" y="380" width="150" height="90" rx="6"/>
+<rect x="990" y="380" width="170" height="90" rx="6"/>
+<rect x="620" y="560" width="150" height="64" rx="6"/>
+<rect x="790" y="560" width="170" height="64" rx="6"/>
+<rect x="980" y="560" width="90" height="64" rx="6"/>
+<rect x="1090" y="560" width="90" height="64" rx="6"/></g>
+<g marker-end="url(#a)">
+<path d="M270 121H340"/><path d="M500 121H570"/>
+<path d="M170 425H215"/><path d="M365 425H410"/><path d="M570 425H615"/><path d="M755 425H800"/><path d="M950 425H990"/>
+<path d="M620 166V335H490V380" stroke-dasharray="5 4"/>
+<path d="M690 166V355H1075V380" stroke-dasharray="5 4"/>
+<path d="M695 540V560"/><path d="M875 540V560"/><path d="M1025 540V560"/><path d="M1135 540V560"/></g>
+<g marker-start="url(#a)" marker-end="url(#a)"><path d="M740 100L830 88"/><path d="M740 142L830 172"/></g>
+<path d="M1135 470V540H695"/></g>
+<g fill="currentColor" font-size="13" font-weight="600">
+<text x="46" y="78">15 sources</text><text x="356" y="100">ingest</text><text x="586" y="100">SQLite</text>
+<text x="846" y="80">vectors → e5 embedding service</text><text x="846" y="164">judge-live → Claude Haiku</text>
+<text x="46" y="404">Query</text><text x="231" y="404">Haiku rewrite</text><text x="426" y="404">Recall</text><text x="631" y="404">Qwen3 rerank</text><text x="816" y="404">L learned ranker</text><text x="1006" y="404">Filters</text>
+<text x="636" y="584">MCP</text><text x="806" y="584">Search page</text><text x="996" y="584">CLI</text><text x="1106" y="584">Logs</text></g>
+<g fill="currentColor" font-size="11.5" opacity="0.72">
+<text x="46" y="100">himalayas · jobicy · arbeitnow</text><text x="46" y="118">greenhouse · smartrecruiters · ashby</text><text x="46" y="136">ncss · taiwanjobs (CN, TW)</text><text x="46" y="154">GitHub bounties · forums</text>
+<text x="356" y="120">fetch · dedup</text><text x="356" y="138">closed check · places</text>
+<text x="586" y="120">82,169 postings (Nov 17)</text><text x="586" y="138">text, vectors, AI labels</text>
+<text x="846" y="102">embed new postings, write back</text><text x="846" y="186">field labels, ≤ $0.50 a day</text>
+<text x="46" y="424">from an agent or the page</text><text x="46" y="442">optional place, field</text>
+<text x="231" y="424">constraints</text><text x="231" y="442">+ English query</text>
+<text x="426" y="424">e5 vectors + BM25</text><text x="426" y="442">candidates</text>
+<text x="631" y="424">top 50</text><text x="631" y="442">cross-encoder</text>
+<text x="816" y="424">11 features</text><text x="816" y="442">→ one score</text>
+<text x="1006" y="424">closed, archived</text><text x="1006" y="442">place, field</text>
+<text x="636" y="604">for agents</text><text x="806" y="604">localhost</text><text x="996" y="604">rankai search</text><text x="1106" y="604">searches, ratings</text></g>
+<g fill="currentColor" font-size="11" opacity="0.8" text-anchor="middle">
+<text x="305" y="112">pull</text><text x="535" y="112">write</text><text x="785" y="128">read text / write back</text>
+<text x="555" y="328">read candidates</text><text x="880" y="348">read labels, closed state, field</text></g>
+<text x="1120" y="532" text-anchor="end" font-size="11" fill="currentColor" opacity="0.8">results carry fit · mismatch · verdict</text>
+<g fill="#d97706" font-size="11.5" font-weight="600">
+<text x="340" y="188">ncss: one request / 5 s, slowest</text>
+<text x="830" y="226">backlog of unlabeled postings, newest first</text>
+<text x="800" y="490">part-time queries still get full-time jobs</text>
+<text x="990" y="490">few city-specific jobs</text>
+<text x="30" y="650">orange = known problems</text></g>
+</svg>

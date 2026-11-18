@@ -1,0 +1,79 @@
+{
+ "J": {
+  "old": {
+   "all": {
+    "queries": 48,
+    "covered": 15,
+    "good_in_top10": 1.04,
+    "P@5": 0.133
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 3,
+    "good_in_top10": 0.75,
+    "P@5": 0.113
+   },
+   "en": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.25,
+    "P@5": 0.138
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.12,
+    "P@5": 0.15
+   },
+   "no buyer": {
+    "queries": 42,
+    "covered": 15,
+    "good_in_top10": 1.19,
+    "P@5": 0.152
+   }
+  },
+  "new": {
+   "all": {
+    "queries": 48,
+    "covered": 15,
+    "good_in_top10": 1.04,
+    "P@5": 0.133
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 3,
+    "good_in_top10": 0.75,
+    "P@5": 0.113
+   },
+   "en": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.25,
+    "P@5": 0.138
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.12,
+    "P@5": 0.15
+   },
+   "no buyer": {
+    "queries": 42,
+    "covered": 15,
+    "good_in_top10": 1.19,
+    "P@5": 0.152
+   }
+  },
+  "newly_covered": [],
+  "lost": [],
+  "mcnemar_p": 1.0,
+  "mcnemar_p_no_buyer": 1.0,
+  "p5_signflip_p": 1.0,
+  "good_by_source": {
+   "himalayas": 30,
+   "greenhouse": 14,
+   "jobicy": 4,
+   "ashby": 2
+  }
+ }
+}

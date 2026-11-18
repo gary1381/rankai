@@ -1,0 +1,31 @@
+{
+ "items": 480,
+ "labeled": 480,
+ "reused": 408,
+ "missing": 0,
+ "composer_vs_grok": {
+  "n": 72,
+  "exact": 0.653,
+  "within1": 0.875,
+  "weighted_kappa": 0.381
+ },
+ "gpt_reviewed": 0,
+ "rel_distribution": {
+  "0-1": 208,
+  "1-2": 208,
+  "2-3": 61,
+  "3-4": 3
+ },
+ "not_opportunity": 2,
+ "spread_ge2": [
+  "gzh02:25512",
+  "gzh11:25394",
+  "gzh11:25396",
+  "gzh11:25398",
+  "gzh11:25401",
+  "gzh11:25403",
+  "gzh11:25407",
+  "gzh11:25408",
+  "gmix01:9816"
+ ]
+}

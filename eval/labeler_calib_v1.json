@@ -1,0 +1,334 @@
+{
+ "sample": {
+  "good_pool": 48,
+  "rest_pool": 785,
+  "good_taken": 48,
+  "rest_taken": 152
+ },
+ "graded_by_both": 200,
+ "missing": {
+  "haiku": 0,
+  "luna": 0
+ },
+ "weighted_to_v1_mix": {
+  "composer vs grok": {
+   "n": 200,
+   "weighted_kappa": 0.638,
+   "exact": 0.656,
+   "within1": 0.973,
+   "good_agree": 0.855,
+   "mean_a": 0.759,
+   "mean_b": 0.502
+  },
+  "haiku vs luna": {
+   "n": 200,
+   "weighted_kappa": 0.595,
+   "exact": 0.68,
+   "within1": 0.981,
+   "good_agree": 0.9,
+   "mean_a": 0.686,
+   "mean_b": 0.807
+  },
+  "haiku vs composer": {
+   "n": 200,
+   "weighted_kappa": 0.639,
+   "exact": 0.625,
+   "within1": 0.989,
+   "good_agree": 0.874,
+   "mean_a": 0.686,
+   "mean_b": 0.759
+  },
+  "haiku vs grok": {
+   "n": 200,
+   "weighted_kappa": 0.733,
+   "exact": 0.777,
+   "within1": 1.0,
+   "good_agree": 0.962,
+   "mean_a": 0.686,
+   "mean_b": 0.502
+  },
+  "luna vs composer": {
+   "n": 200,
+   "weighted_kappa": 0.547,
+   "exact": 0.539,
+   "within1": 0.969,
+   "good_agree": 0.828,
+   "mean_a": 0.807,
+   "mean_b": 0.759
+  },
+  "luna vs grok": {
+   "n": 200,
+   "weighted_kappa": 0.572,
+   "exact": 0.651,
+   "within1": 0.975,
+   "good_agree": 0.894,
+   "mean_a": 0.807,
+   "mean_b": 0.502
+  },
+  "new_mean vs old_mean": {
+   "n": 200,
+   "weighted_kappa": 0.761,
+   "exact": 0.488,
+   "within1": 0.994,
+   "good_agree": 0.968,
+   "mean_a": 0.746,
+   "mean_b": 0.63
+  },
+  "haiku vs old_mean": {
+   "n": 200,
+   "weighted_kappa": 0.761,
+   "exact": 0.566,
+   "within1": 0.994,
+   "good_agree": 0.961,
+   "mean_a": 0.686,
+   "mean_b": 0.63
+  },
+  "luna vs old_mean": {
+   "n": 200,
+   "weighted_kappa": 0.618,
+   "exact": 0.461,
+   "within1": 0.963,
+   "good_agree": 0.89,
+   "mean_a": 0.807,
+   "mean_b": 0.63
+  }
+ },
+ "on_sample": {
+  "composer vs grok": {
+   "n": 200,
+   "weighted_kappa": 0.742,
+   "exact": 0.63,
+   "within1": 0.95,
+   "good_agree": 0.855,
+   "mean_a": 1.12,
+   "mean_b": 0.8
+  },
+  "haiku vs luna": {
+   "n": 200,
+   "weighted_kappa": 0.73,
+   "exact": 0.665,
+   "within1": 0.985,
+   "good_agree": 0.895,
+   "mean_a": 0.94,
+   "mean_b": 1.05
+  },
+  "haiku vs composer": {
+   "n": 200,
+   "weighted_kappa": 0.736,
+   "exact": 0.585,
+   "within1": 0.975,
+   "good_agree": 0.87,
+   "mean_a": 0.94,
+   "mean_b": 1.12
+  },
+  "haiku vs grok": {
+   "n": 200,
+   "weighted_kappa": 0.846,
+   "exact": 0.78,
+   "within1": 1.0,
+   "good_agree": 0.945,
+   "mean_a": 0.94,
+   "mean_b": 0.8
+  },
+  "luna vs composer": {
+   "n": 200,
+   "weighted_kappa": 0.675,
+   "exact": 0.515,
+   "within1": 0.955,
+   "good_agree": 0.825,
+   "mean_a": 1.05,
+   "mean_b": 1.12
+  },
+  "luna vs grok": {
+   "n": 200,
+   "weighted_kappa": 0.735,
+   "exact": 0.65,
+   "within1": 0.98,
+   "good_agree": 0.89,
+   "mean_a": 1.05,
+   "mean_b": 0.8
+  },
+  "new_mean vs old_mean": {
+   "n": 200,
+   "weighted_kappa": 0.856,
+   "exact": 0.47,
+   "within1": 0.995,
+   "good_agree": 0.93,
+   "mean_a": 0.995,
+   "mean_b": 0.96
+  },
+  "haiku vs old_mean": {
+   "n": 200,
+   "weighted_kappa": 0.851,
+   "exact": 0.545,
+   "within1": 0.995,
+   "good_agree": 0.94,
+   "mean_a": 0.94,
+   "mean_b": 0.96
+  },
+  "luna vs old_mean": {
+   "n": 200,
+   "weighted_kappa": 0.759,
+   "exact": 0.44,
+   "within1": 0.97,
+   "good_agree": 0.875,
+   "mean_a": 1.05,
+   "mean_b": 0.96
+  }
+ },
+ "haiku_bias_check": {
+  "rewrite_only": {
+   "n": 112,
+   "haiku_minus_old": -0.027,
+   "luna_minus_old": 0.054
+  },
+  "other": {
+   "n": 88,
+   "haiku_minus_old": -0.011,
+   "luna_minus_old": 0.136
+  }
+ },
+ "by_language": {
+  "zh": {
+   "haiku vs luna": {
+    "n": 68,
+    "weighted_kappa": 0.77,
+    "exact": 0.739,
+    "within1": 1.0,
+    "good_agree": 0.889,
+    "mean_a": 0.596,
+    "mean_b": 0.697
+   },
+   "composer vs grok": {
+    "n": 68,
+    "weighted_kappa": 0.696,
+    "exact": 0.647,
+    "within1": 0.981,
+    "good_agree": 0.866,
+    "mean_a": 0.672,
+    "mean_b": 0.338
+   },
+   "new_mean vs old_mean": {
+    "n": 68,
+    "weighted_kappa": 0.782,
+    "exact": 0.443,
+    "within1": 1.0,
+    "good_agree": 0.939,
+    "mean_a": 0.647,
+    "mean_b": 0.505
+   }
+  },
+  "en": {
+   "haiku vs luna": {
+    "n": 60,
+    "weighted_kappa": 0.398,
+    "exact": 0.638,
+    "within1": 0.978,
+    "good_agree": 0.927,
+    "mean_a": 0.833,
+    "mean_b": 0.984
+   },
+   "composer vs grok": {
+    "n": 60,
+    "weighted_kappa": 0.562,
+    "exact": 0.603,
+    "within1": 0.953,
+    "good_agree": 0.78,
+    "mean_a": 1.001,
+    "mean_b": 0.695
+   },
+   "new_mean vs old_mean": {
+    "n": 60,
+    "weighted_kappa": 0.663,
+    "exact": 0.444,
+    "within1": 0.978,
+    "good_agree": 0.987,
+    "mean_a": 0.909,
+    "mean_b": 0.848
+   }
+  },
+  "mix": {
+   "haiku vs luna": {
+    "n": 72,
+    "weighted_kappa": 0.498,
+    "exact": 0.661,
+    "within1": 0.968,
+    "good_agree": 0.889,
+    "mean_a": 0.651,
+    "mean_b": 0.768
+   },
+   "composer vs grok": {
+    "n": 72,
+    "weighted_kappa": 0.604,
+    "exact": 0.703,
+    "within1": 0.981,
+    "good_agree": 0.902,
+    "mean_a": 0.653,
+    "mean_b": 0.495
+   },
+   "new_mean vs old_mean": {
+    "n": 72,
+    "weighted_kappa": 0.781,
+    "exact": 0.557,
+    "within1": 1.0,
+    "good_agree": 0.978,
+    "mean_a": 0.709,
+    "mean_b": 0.574
+   }
+  }
+ },
+ "confusion_old_floor_by_new": {
+  "haiku": [
+   [
+    64,
+    31,
+    1,
+    0
+   ],
+   [
+    1,
+    51,
+    4,
+    0
+   ],
+   [
+    0,
+    7,
+    32,
+    1
+   ],
+   [
+    0,
+    0,
+    2,
+    6
+   ]
+  ],
+  "luna": [
+   [
+    53,
+    38,
+    5,
+    0
+   ],
+   [
+    4,
+    41,
+    11,
+    0
+   ],
+   [
+    0,
+    9,
+    23,
+    8
+   ],
+   [
+    0,
+    0,
+    4,
+    4
+   ]
+  ]
+ }
+}

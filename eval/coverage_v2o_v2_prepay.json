@@ -1,0 +1,152 @@
+{
+ "F": {
+  "old": {
+   "all": {
+    "queries": 48,
+    "covered": 8,
+    "good_in_top10": 0.5,
+    "P@5": 0.075
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 1,
+    "good_in_top10": 0.06,
+    "P@5": 0.013
+   },
+   "en": {
+    "queries": 16,
+    "covered": 3,
+    "good_in_top10": 0.81,
+    "P@5": 0.113
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 4,
+    "good_in_top10": 0.62,
+    "P@5": 0.1
+   }
+  },
+  "new": {
+   "all": {
+    "queries": 48,
+    "covered": 15,
+    "good_in_top10": 1.29,
+    "P@5": 0.142
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 3,
+    "good_in_top10": 0.56,
+    "P@5": 0.062
+   },
+   "en": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.44,
+    "P@5": 0.163
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.88,
+    "P@5": 0.2
+   }
+  },
+  "newly_covered": [
+   "gen08 freelance remote packaging copywriter for natural food products",
+   "gen09 six-month contract event producer in Austin, travel required",
+   "gen13 looking to hand off a warehouse layout and safety audit project",
+   "gmix04 remote full-time podcast producer，会做采访和音频后期",
+   "gmix08 freelance remote motion designer，做公益 campaign 短片",
+   "gzh03 广州全职法务专员，熟悉劳动合同和知识产权",
+   "gzh04 全职远程电商售后主管，带过10人客服团队"
+  ],
+  "lost": [],
+  "mcnemar_p": 0.015625,
+  "p5_signflip_p": 0.004149792510374482,
+  "good_by_source": {
+   "himalayas": 50,
+   "greenhouse": 4,
+   "ncss": 4,
+   "jobicy": 2,
+   "wwr": 1,
+   "arbeitnow": 1
+  }
+ },
+ "H": {
+  "old": {
+   "all": {
+    "queries": 48,
+    "covered": 8,
+    "good_in_top10": 0.48,
+    "P@5": 0.071
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 1,
+    "good_in_top10": 0.06,
+    "P@5": 0.013
+   },
+   "en": {
+    "queries": 16,
+    "covered": 3,
+    "good_in_top10": 0.75,
+    "P@5": 0.1
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 4,
+    "good_in_top10": 0.62,
+    "P@5": 0.1
+   }
+  },
+  "new": {
+   "all": {
+    "queries": 48,
+    "covered": 17,
+    "good_in_top10": 1.33,
+    "P@5": 0.142
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 4,
+    "good_in_top10": 0.56,
+    "P@5": 0.087
+   },
+   "en": {
+    "queries": 16,
+    "covered": 7,
+    "good_in_top10": 1.56,
+    "P@5": 0.138
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.88,
+    "P@5": 0.2
+   }
+  },
+  "newly_covered": [
+   "gen01 full-time remote compensation analyst, $85k minimum",
+   "gen08 freelance remote packaging copywriter for natural food products",
+   "gen09 six-month contract event producer in Austin, travel required",
+   "gen13 looking to hand off a warehouse layout and safety audit project",
+   "gmix04 remote full-time podcast producer，会做采访和音频后期",
+   "gmix08 freelance remote motion designer，做公益 campaign 短片",
+   "gzh03 广州全职法务专员，熟悉劳动合同和知识产权",
+   "gzh04 全职远程电商售后主管，带过10人客服团队",
+   "gzh08 接远程品牌命名和中文文案项目，按项目报价"
+  ],
+  "lost": [],
+  "mcnemar_p": 0.00390625,
+  "p5_signflip_p": 0.000999950002499875,
+  "good_by_source": {
+   "himalayas": 50,
+   "greenhouse": 5,
+   "wwr": 4,
+   "jobicy": 2,
+   "ncss": 2,
+   "arbeitnow": 1
+  }
+ }
+}

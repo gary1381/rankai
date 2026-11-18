@@ -1,0 +1,480 @@
+{"qid": "hzh01", "opp_id": 4406, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh01", "opp_id": 16892, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh01", "opp_id": 18551, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hzh01", "opp_id": 18555, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh01", "opp_id": 18563, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh01", "opp_id": 18574, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh01", "opp_id": 18581, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 1, "reused_from": "v1b"}
+{"qid": "hzh01", "opp_id": 18610, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh01", "opp_id": 18639, "rel": 1, "is_opportunity": true, "by": {"composer": 2, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh01", "opp_id": 21230, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2.5, "reused_from": "v1b"}
+{"qid": "hzh02", "opp_id": 15805, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh02", "opp_id": 15830, "rel": 0.333, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hzh02", "opp_id": 15863, "rel": 1, "is_opportunity": true, "by": {"composer": 2, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh02", "opp_id": 15874, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh02", "opp_id": 15918, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh02", "opp_id": 15961, "rel": 2.5, "is_opportunity": true, "by": {"composer": 2, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hzh02", "opp_id": 15972, "rel": 2.5, "is_opportunity": true, "by": {"composer": 2, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hzh02", "opp_id": 15983, "rel": 1, "is_opportunity": true, "by": {"composer": 2, "grok": 0, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hzh02", "opp_id": 15994, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hzh02", "opp_id": 16006, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hzh03", "opp_id": 13015, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 1.667, "reused_from": "v1b"}
+{"qid": "hzh03", "opp_id": 13893, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh03", "opp_id": 13894, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh03", "opp_id": 14796, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh03", "opp_id": 14819, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh03", "opp_id": 15158, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 1, "reused_from": "v1b"}
+{"qid": "hzh03", "opp_id": 17362, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}}
+{"qid": "hzh03", "opp_id": 17981, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "relabel": "payfix-20261029", "rel_before": 0, "reused_from": "v1b"}
+{"qid": "hzh03", "opp_id": 25303, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}}
+{"qid": "hzh03", "opp_id": 25342, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}}
+{"qid": "hzh04", "opp_id": 3105, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1, "gpt-review": 2}, "reused_from": "v1b"}
+{"qid": "hzh04", "opp_id": 10746, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hzh04", "opp_id": 15545, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh04", "opp_id": 18051, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh04", "opp_id": 20446, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh04", "opp_id": 20923, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh04", "opp_id": 21233, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh04", "opp_id": 24657, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh04", "opp_id": 24663, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh04", "opp_id": 24666, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh05", "opp_id": 6313, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}}
+{"qid": "hzh05", "opp_id": 10343, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hzh05", "opp_id": 11666, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hzh05", "opp_id": 11944, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hzh05", "opp_id": 12964, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh05", "opp_id": 13492, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh05", "opp_id": 13493, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh05", "opp_id": 16351, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hzh05", "opp_id": 20208, "rel": 2.667, "is_opportunity": true, "by": {"composer": 3, "grok": 2, "gpt-review": 3}, "reused_from": "v1b"}
+{"qid": "hzh05", "opp_id": 21117, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hzh06", "opp_id": 16372, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hzh06", "opp_id": 16375, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hzh06", "opp_id": 18785, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hzh06", "opp_id": 18837, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hzh06", "opp_id": 18844, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hzh06", "opp_id": 18848, "rel": 2.333, "is_opportunity": true, "by": {"composer": 3, "grok": 2, "gpt-review": 2}, "reused_from": "v1b"}
+{"qid": "hzh06", "opp_id": 18851, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh06", "opp_id": 18861, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hzh06", "opp_id": 25150, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}}
+{"qid": "hzh06", "opp_id": 25390, "rel": 1, "is_opportunity": true, "by": {"composer": 0, "grok": 2}}
+{"qid": "hzh07", "opp_id": 12636, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh07", "opp_id": 15285, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh07", "opp_id": 15296, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh07", "opp_id": 15318, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh07", "opp_id": 15350, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh07", "opp_id": 15500, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh07", "opp_id": 15555, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh07", "opp_id": 18479, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh07", "opp_id": 25493, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}}
+{"qid": "hzh07", "opp_id": 25638, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}}
+{"qid": "hzh08", "opp_id": 9876, "rel": 2.667, "is_opportunity": true, "by": {"composer": 3, "grok": 2, "gpt-review": 3}, "reused_from": "v1b"}
+{"qid": "hzh08", "opp_id": 12709, "rel": 0, "is_opportunity": false, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh08", "opp_id": 18261, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh08", "opp_id": 18265, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh08", "opp_id": 18267, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh08", "opp_id": 18274, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh08", "opp_id": 25373, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hzh08", "opp_id": 25374, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}}
+{"qid": "hzh08", "opp_id": 25375, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}}
+{"qid": "hzh08", "opp_id": 25376, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hzh09", "opp_id": 18722, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}}
+{"qid": "hzh09", "opp_id": 18723, "rel": 0.333, "is_opportunity": true, "by": {"composer": 0, "grok": 1, "gpt-review": 0}, "relabel": "payfix-20261029", "rel_before": 0.667, "reused_from": "v1b"}
+{"qid": "hzh09", "opp_id": 18724, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "relabel": "payfix-20261029", "rel_before": 0, "reused_from": "v1b"}
+{"qid": "hzh09", "opp_id": 18726, "rel": 0.333, "is_opportunity": true, "by": {"composer": 0, "grok": 1, "gpt-review": 0}, "relabel": "payfix-20261029", "rel_before": 0.5, "reused_from": "v1b"}
+{"qid": "hzh09", "opp_id": 18727, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "relabel": "payfix-20261029", "rel_before": 0.5, "reused_from": "v1b"}
+{"qid": "hzh09", "opp_id": 18728, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "relabel": "payfix-20261029", "rel_before": 0.667, "reused_from": "v1b"}
+{"qid": "hzh09", "opp_id": 18730, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "relabel": "payfix-20261029", "rel_before": 0.667, "reused_from": "v1b"}
+{"qid": "hzh09", "opp_id": 18736, "rel": 0.333, "is_opportunity": true, "by": {"composer": 0, "grok": 1, "gpt-review": 0}, "relabel": "payfix-20261029", "rel_before": 0.5, "reused_from": "v1b"}
+{"qid": "hzh09", "opp_id": 18738, "rel": 0.333, "is_opportunity": true, "by": {"composer": 0, "grok": 1, "gpt-review": 0}, "relabel": "payfix-20261029", "rel_before": 0.667, "reused_from": "v1b"}
+{"qid": "hzh09", "opp_id": 18740, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "relabel": "payfix-20261029", "rel_before": 0.5, "reused_from": "v1b"}
+{"qid": "hzh10", "opp_id": 24944, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh10", "opp_id": 25265, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1}}
+{"qid": "hzh10", "opp_id": 25273, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}}
+{"qid": "hzh10", "opp_id": 25275, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}}
+{"qid": "hzh10", "opp_id": 25278, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}}
+{"qid": "hzh10", "opp_id": 25280, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}}
+{"qid": "hzh10", "opp_id": 25281, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}}
+{"qid": "hzh10", "opp_id": 25282, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}}
+{"qid": "hzh10", "opp_id": 25284, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}}
+{"qid": "hzh10", "opp_id": 25293, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}}
+{"qid": "hzh11", "opp_id": 10549, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh11", "opp_id": 10672, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh11", "opp_id": 17760, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hzh11", "opp_id": 17806, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hzh11", "opp_id": 24703, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh11", "opp_id": 24704, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh11", "opp_id": 25086, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hzh11", "opp_id": 25174, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}}
+{"qid": "hzh11", "opp_id": 25675, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hzh11", "opp_id": 25805, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hzh12", "opp_id": 11862, "rel": 1.333, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hzh12", "opp_id": 11929, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh12", "opp_id": 12692, "rel": 0, "is_opportunity": false, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh12", "opp_id": 12705, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 0, "gpt-review": 3}, "reused_from": "v1b"}
+{"qid": "hzh12", "opp_id": 12708, "rel": 1.667, "is_opportunity": true, "by": {"composer": 2, "grok": 0, "gpt-review": 3}, "reused_from": "v1b"}
+{"qid": "hzh12", "opp_id": 12711, "rel": 1.667, "is_opportunity": true, "by": {"composer": 3, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hzh12", "opp_id": 12723, "rel": 1, "is_opportunity": false, "by": {"composer": 3, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hzh12", "opp_id": 12728, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh12", "opp_id": 12735, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}}
+{"qid": "hzh12", "opp_id": 18263, "rel": 1.667, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 2}, "reused_from": "v1b"}
+{"qid": "hzh13", "opp_id": 18866, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh13", "opp_id": 18882, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh13", "opp_id": 18886, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh13", "opp_id": 18893, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh13", "opp_id": 18898, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh13", "opp_id": 18908, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh13", "opp_id": 18910, "rel": 1.333, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hzh13", "opp_id": 18914, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh13", "opp_id": 18922, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh13", "opp_id": 24709, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh14", "opp_id": 12314, "rel": 0.333, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hzh14", "opp_id": 12351, "rel": 0.333, "is_opportunity": true, "by": {"composer": 0, "grok": 0, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hzh14", "opp_id": 12375, "rel": 0, "is_opportunity": false, "by": {"composer": 0, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hzh14", "opp_id": 12377, "rel": 0.667, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hzh14", "opp_id": 12378, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh14", "opp_id": 12479, "rel": 1.333, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hzh14", "opp_id": 12733, "rel": 0, "is_opportunity": false, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh14", "opp_id": 21674, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hzh14", "opp_id": 21683, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hzh14", "opp_id": 21872, "rel": 0.667, "is_opportunity": true, "by": {"composer": 0, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hzh15", "opp_id": 7466, "rel": 1.333, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hzh15", "opp_id": 12018, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh15", "opp_id": 15253, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh15", "opp_id": 15318, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh15", "opp_id": 15457, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh15", "opp_id": 15566, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hzh15", "opp_id": 25298, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}}
+{"qid": "hzh15", "opp_id": 25515, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}}
+{"qid": "hzh15", "opp_id": 25561, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}}
+{"qid": "hzh15", "opp_id": 25792, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}}
+{"qid": "hzh16", "opp_id": 675, "rel": 1.333, "is_opportunity": true, "by": {"composer": 0, "grok": 2, "gpt-review": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh16", "opp_id": 3476, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh16", "opp_id": 3793, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2.5, "reused_from": "v1b"}
+{"qid": "hzh16", "opp_id": 6243, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hzh16", "opp_id": 10196, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh16", "opp_id": 11055, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 0, "reused_from": "v1b"}
+{"qid": "hzh16", "opp_id": 11056, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 0, "reused_from": "v1b"}
+{"qid": "hzh16", "opp_id": 18663, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh16", "opp_id": 18683, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hzh16", "opp_id": 19810, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hen01", "opp_id": 4025, "rel": 0.333, "is_opportunity": true, "by": {"composer": 0, "grok": 1, "gpt-review": 0}, "relabel": "payfix-20261029", "rel_before": 1.333, "reused_from": "v1b"}
+{"qid": "hen01", "opp_id": 7396, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "relabel": "payfix-20261029", "rel_before": 2.5, "reused_from": "v1b"}
+{"qid": "hen01", "opp_id": 7402, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "relabel": "payfix-20261029", "rel_before": 2.333, "reused_from": "v1b"}
+{"qid": "hen01", "opp_id": 14074, "rel": 1.5, "is_opportunity": true, "by": {"composer": 1, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 1.333, "reused_from": "v1b"}
+{"qid": "hen01", "opp_id": 14075, "rel": 1.5, "is_opportunity": true, "by": {"composer": 1, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen01", "opp_id": 14076, "rel": 1, "is_opportunity": true, "by": {"composer": 0, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 0.5, "reused_from": "v1b"}
+{"qid": "hen01", "opp_id": 14077, "rel": 1, "is_opportunity": true, "by": {"composer": 0, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 1, "reused_from": "v1b"}
+{"qid": "hen01", "opp_id": 17763, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hen01", "opp_id": 17775, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "relabel": "payfix-20261029", "rel_before": 2.5, "reused_from": "v1b"}
+{"qid": "hen01", "opp_id": 17785, "rel": 2.5, "is_opportunity": true, "by": {"composer": 2, "grok": 3}, "relabel": "payfix-20261029", "rel_before": 3, "reused_from": "v1b"}
+{"qid": "hen02", "opp_id": 10212, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 0.667, "reused_from": "v1b"}
+{"qid": "hen02", "opp_id": 17321, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hen02", "opp_id": 17323, "rel": 1, "is_opportunity": true, "by": {"composer": 2, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 1.5, "reused_from": "v1b"}
+{"qid": "hen02", "opp_id": 17325, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen02", "opp_id": 17326, "rel": 1.333, "is_opportunity": true, "by": {"composer": 0, "grok": 2, "gpt-review": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hen02", "opp_id": 17331, "rel": 1, "is_opportunity": true, "by": {"composer": 2, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 1, "reused_from": "v1b"}
+{"qid": "hen02", "opp_id": 17332, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 0, "reused_from": "v1b"}
+{"qid": "hen02", "opp_id": 17373, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "relabel": "payfix-20261029", "rel_before": 0, "reused_from": "v1b"}
+{"qid": "hen02", "opp_id": 17375, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hen02", "opp_id": 17979, "rel": 1.5, "is_opportunity": true, "by": {"composer": 1, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 1, "reused_from": "v1b"}
+{"qid": "hen03", "opp_id": 3319, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen03", "opp_id": 5184, "rel": 0.667, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hen03", "opp_id": 6962, "rel": 2.333, "is_opportunity": true, "by": {"composer": 3, "grok": 2, "gpt-review": 2}, "reused_from": "v1b"}
+{"qid": "hen03", "opp_id": 7339, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen03", "opp_id": 7353, "rel": 0.333, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hen03", "opp_id": 7519, "rel": 2.333, "is_opportunity": true, "by": {"composer": 3, "grok": 2, "gpt-review": 2}, "reused_from": "v1b"}
+{"qid": "hen03", "opp_id": 19252, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen03", "opp_id": 19261, "rel": 1, "is_opportunity": true, "by": {"composer": 2, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen03", "opp_id": 19263, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen03", "opp_id": 19267, "rel": 2.5, "is_opportunity": true, "by": {"composer": 2, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen04", "opp_id": 2220, "rel": 2.667, "is_opportunity": true, "by": {"composer": 3, "grok": 2, "gpt-review": 3}, "reused_from": "v1b"}
+{"qid": "hen04", "opp_id": 2221, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen04", "opp_id": 10844, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen04", "opp_id": 11004, "rel": 2.667, "is_opportunity": true, "by": {"composer": 3, "grok": 2, "gpt-review": 3}, "reused_from": "v1b"}
+{"qid": "hen04", "opp_id": 12755, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen04", "opp_id": 12758, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen04", "opp_id": 12762, "rel": 2.667, "is_opportunity": true, "by": {"composer": 2, "grok": 3, "gpt-review": 3}, "reused_from": "v1b"}
+{"qid": "hen04", "opp_id": 16600, "rel": 2.667, "is_opportunity": true, "by": {"composer": 3, "grok": 2, "gpt-review": 3}, "reused_from": "v1b"}
+{"qid": "hen04", "opp_id": 17150, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen04", "opp_id": 17303, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen05", "opp_id": 17137, "rel": 0.333, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hen05", "opp_id": 17197, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen05", "opp_id": 17200, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen05", "opp_id": 17217, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 2}, "reused_from": "v1b"}
+{"qid": "hen05", "opp_id": 18923, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen05", "opp_id": 18931, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen05", "opp_id": 18932, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen05", "opp_id": 18959, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen05", "opp_id": 18964, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen05", "opp_id": 18974, "rel": 0.667, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hen06", "opp_id": 18325, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen06", "opp_id": 18326, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen06", "opp_id": 18329, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen06", "opp_id": 18330, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen06", "opp_id": 18331, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen06", "opp_id": 18333, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen06", "opp_id": 18339, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen06", "opp_id": 18348, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen06", "opp_id": 18349, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen06", "opp_id": 18356, "rel": 1.5, "is_opportunity": true, "by": {"composer": 1, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen07", "opp_id": 2670, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen07", "opp_id": 10477, "rel": 0.333, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hen07", "opp_id": 11363, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen07", "opp_id": 12845, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen07", "opp_id": 12848, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen07", "opp_id": 12849, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen07", "opp_id": 12851, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen07", "opp_id": 12852, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen07", "opp_id": 12946, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen07", "opp_id": 14629, "rel": 0.667, "is_opportunity": true, "by": {"composer": 0, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hen08", "opp_id": 9991, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen08", "opp_id": 18202, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen08", "opp_id": 18226, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen08", "opp_id": 18229, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen08", "opp_id": 18231, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen08", "opp_id": 18251, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen08", "opp_id": 18254, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen08", "opp_id": 18256, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen08", "opp_id": 18257, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen08", "opp_id": 18258, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen09", "opp_id": 17378, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen09", "opp_id": 17388, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen09", "opp_id": 17394, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen09", "opp_id": 17401, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen09", "opp_id": 17404, "rel": 1.667, "is_opportunity": true, "by": {"composer": 1, "grok": 2, "gpt-review": 2}, "reused_from": "v1b"}
+{"qid": "hen09", "opp_id": 17405, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hen09", "opp_id": 17417, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen09", "opp_id": 17419, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen09", "opp_id": 17422, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen09", "opp_id": 17424, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen10", "opp_id": 7412, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen10", "opp_id": 13398, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen10", "opp_id": 14564, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen10", "opp_id": 14567, "rel": 0.333, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hen10", "opp_id": 15401, "rel": 1.333, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hen10", "opp_id": 18127, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen10", "opp_id": 18375, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen10", "opp_id": 19575, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen10", "opp_id": 19586, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen10", "opp_id": 19610, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen11", "opp_id": 11219, "rel": 0.667, "is_opportunity": true, "by": {"composer": 2, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hen11", "opp_id": 17789, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen11", "opp_id": 17790, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen11", "opp_id": 17791, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen11", "opp_id": 17792, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen11", "opp_id": 17794, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen11", "opp_id": 17799, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen11", "opp_id": 17812, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen11", "opp_id": 17819, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen11", "opp_id": 17824, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hen12", "opp_id": 5659, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen12", "opp_id": 5758, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen12", "opp_id": 7352, "rel": 1.333, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hen12", "opp_id": 8720, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen12", "opp_id": 10578, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen12", "opp_id": 17159, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen12", "opp_id": 18531, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen12", "opp_id": 18580, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen12", "opp_id": 18640, "rel": 1.333, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hen12", "opp_id": 20599, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen13", "opp_id": 6415, "rel": 1.333, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hen13", "opp_id": 7673, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen13", "opp_id": 9964, "rel": 1.333, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hen13", "opp_id": 17439, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen13", "opp_id": 17447, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen13", "opp_id": 17451, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen13", "opp_id": 17462, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen13", "opp_id": 17463, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen13", "opp_id": 17466, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen13", "opp_id": 20649, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen14", "opp_id": 12343, "rel": 0.667, "is_opportunity": true, "by": {"composer": 0, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hen14", "opp_id": 21433, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen14", "opp_id": 21441, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen14", "opp_id": 21458, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen14", "opp_id": 21466, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen14", "opp_id": 21587, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen14", "opp_id": 21595, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 3}, "reused_from": "v1b"}
+{"qid": "hen14", "opp_id": 21797, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen14", "opp_id": 25010, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hen14", "opp_id": 25014, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}}
+{"qid": "hen15", "opp_id": 8818, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen15", "opp_id": 8819, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen15", "opp_id": 10020, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen15", "opp_id": 10427, "rel": 1.333, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hen15", "opp_id": 10448, "rel": 1.667, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 2}, "reused_from": "v1b"}
+{"qid": "hen15", "opp_id": 12051, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hen15", "opp_id": 16315, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen15", "opp_id": 16612, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen15", "opp_id": 16765, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen15", "opp_id": 21300, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hen16", "opp_id": 641, "rel": 1.333, "is_opportunity": true, "by": {"composer": 0, "grok": 2, "gpt-review": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hen16", "opp_id": 16428, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1}, "relabel": "payfix-20261029", "rel_before": 1.5, "reused_from": "v1b"}
+{"qid": "hen16", "opp_id": 16883, "rel": 1, "is_opportunity": true, "by": {"composer": 0, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hen16", "opp_id": 18150, "rel": 1, "is_opportunity": true, "by": {"composer": 2, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 1, "reused_from": "v1b"}
+{"qid": "hen16", "opp_id": 18291, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "relabel": "payfix-20261029", "rel_before": 1, "reused_from": "v1b"}
+{"qid": "hen16", "opp_id": 18293, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hen16", "opp_id": 18296, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hen16", "opp_id": 18303, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hen16", "opp_id": 18310, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hen16", "opp_id": 18312, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix01", "opp_id": 3494, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix01", "opp_id": 18649, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix01", "opp_id": 18651, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix01", "opp_id": 18652, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "relabel": "payfix-20261029", "rel_before": 2.5, "reused_from": "v1b"}
+{"qid": "hmix01", "opp_id": 18657, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix01", "opp_id": 18658, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix01", "opp_id": 18662, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix01", "opp_id": 18670, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix01", "opp_id": 18672, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix01", "opp_id": 18695, "rel": 1.667, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix02", "opp_id": 20, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix02", "opp_id": 3671, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix02", "opp_id": 4088, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix02", "opp_id": 5501, "rel": 0.667, "is_opportunity": true, "by": {"composer": 2, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hmix02", "opp_id": 10102, "rel": 0.667, "is_opportunity": true, "by": {"composer": 2, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hmix02", "opp_id": 15072, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix02", "opp_id": 15093, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix02", "opp_id": 15168, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix02", "opp_id": 15178, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix02", "opp_id": 15188, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix03", "opp_id": 385, "rel": 3, "is_opportunity": true, "by": {"composer": 3, "grok": 3}, "reused_from": "v1b"}
+{"qid": "hmix03", "opp_id": 3326, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix03", "opp_id": 10607, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix03", "opp_id": 12616, "rel": 0.333, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hmix03", "opp_id": 12627, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix03", "opp_id": 17860, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix03", "opp_id": 17870, "rel": 0.333, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hmix03", "opp_id": 17900, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix03", "opp_id": 21180, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix03", "opp_id": 22336, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix04", "opp_id": 10345, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix04", "opp_id": 11841, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix04", "opp_id": 16931, "rel": 2.333, "is_opportunity": true, "by": {"composer": 3, "grok": 2, "gpt-review": 2}, "reused_from": "v1b"}
+{"qid": "hmix04", "opp_id": 17239, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix04", "opp_id": 17297, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix04", "opp_id": 19253, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix04", "opp_id": 19383, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix04", "opp_id": 21129, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix04", "opp_id": 21169, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix04", "opp_id": 21380, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix05", "opp_id": 22065, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix05", "opp_id": 24101, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix05", "opp_id": 24146, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix05", "opp_id": 24615, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix05", "opp_id": 24619, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix05", "opp_id": 24620, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix05", "opp_id": 24626, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix05", "opp_id": 24630, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix05", "opp_id": 25209, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}}
+{"qid": "hmix05", "opp_id": 25210, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}}
+{"qid": "hmix06", "opp_id": 18487, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix06", "opp_id": 18489, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix06", "opp_id": 18498, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix06", "opp_id": 18502, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix06", "opp_id": 18516, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix06", "opp_id": 18520, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix06", "opp_id": 18526, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix06", "opp_id": 18530, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix06", "opp_id": 25152, "rel": 1.5, "is_opportunity": true, "by": {"composer": 1, "grok": 2}}
+{"qid": "hmix06", "opp_id": 25305, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}}
+{"qid": "hmix07", "opp_id": 24566, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix07", "opp_id": 24570, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix07", "opp_id": 24571, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix07", "opp_id": 25257, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}}
+{"qid": "hmix07", "opp_id": 25266, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}}
+{"qid": "hmix07", "opp_id": 25383, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}}
+{"qid": "hmix07", "opp_id": 25384, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}}
+{"qid": "hmix07", "opp_id": 25385, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}}
+{"qid": "hmix07", "opp_id": 25386, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}}
+{"qid": "hmix07", "opp_id": 25390, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}}
+{"qid": "hmix08", "opp_id": 18540, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix08", "opp_id": 18593, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix08", "opp_id": 18600, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix08", "opp_id": 18602, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix08", "opp_id": 18611, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix08", "opp_id": 18612, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix08", "opp_id": 18614, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix08", "opp_id": 18626, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix08", "opp_id": 18647, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix08", "opp_id": 18648, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix09", "opp_id": 10124, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix09", "opp_id": 10501, "rel": 1.667, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 2}, "relabel": "payfix-20261029", "rel_before": 1.667, "reused_from": "v1b"}
+{"qid": "hmix09", "opp_id": 10570, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 3}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix09", "opp_id": 10794, "rel": 1.667, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 2}, "relabel": "payfix-20261029", "rel_before": 1.667, "reused_from": "v1b"}
+{"qid": "hmix09", "opp_id": 19110, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1, "gpt-review": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix09", "opp_id": 19138, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix09", "opp_id": 19143, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix09", "opp_id": 19148, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix09", "opp_id": 19155, "rel": 2.5, "is_opportunity": true, "by": {"composer": 3, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix09", "opp_id": 20638, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 3}, "relabel": "payfix-20261029", "rel_before": 1.333, "reused_from": "v1b"}
+{"qid": "hmix10", "opp_id": 19574, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix10", "opp_id": 19586, "rel": 0.333, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hmix10", "opp_id": 19590, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix10", "opp_id": 19599, "rel": 0.667, "is_opportunity": true, "by": {"composer": 2, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hmix10", "opp_id": 19610, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix10", "opp_id": 25152, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}}
+{"qid": "hmix10", "opp_id": 25164, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hmix10", "opp_id": 25173, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}}
+{"qid": "hmix10", "opp_id": 25178, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}}
+{"qid": "hmix10", "opp_id": 25182, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}}
+{"qid": "hmix11", "opp_id": 4093, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix11", "opp_id": 12614, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix11", "opp_id": 25394, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hmix11", "opp_id": 25396, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hmix11", "opp_id": 25398, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hmix11", "opp_id": 25401, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hmix11", "opp_id": 25407, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hmix11", "opp_id": 25638, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}}
+{"qid": "hmix11", "opp_id": 25798, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}}
+{"qid": "hmix11", "opp_id": 26023, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}}
+{"qid": "hmix12", "opp_id": 12711, "rel": 1.667, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 2}, "reused_from": "v1b"}
+{"qid": "hmix12", "opp_id": 12728, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix12", "opp_id": 18557, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix12", "opp_id": 18561, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix12", "opp_id": 18565, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix12", "opp_id": 18567, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "reused_from": "v1b"}
+{"qid": "hmix12", "opp_id": 18573, "rel": 1.667, "is_opportunity": true, "by": {"composer": 3, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hmix12", "opp_id": 18631, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix12", "opp_id": 18638, "rel": 1, "is_opportunity": true, "by": {"composer": 2, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix12", "opp_id": 21706, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}}
+{"qid": "hmix13", "opp_id": 9977, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}}
+{"qid": "hmix13", "opp_id": 10498, "rel": 1.333, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hmix13", "opp_id": 11609, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix13", "opp_id": 17021, "rel": 1.333, "is_opportunity": true, "by": {"composer": 2, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hmix13", "opp_id": 17158, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix13", "opp_id": 18070, "rel": 0.667, "is_opportunity": true, "by": {"composer": 0, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hmix13", "opp_id": 19306, "rel": 1.667, "is_opportunity": true, "by": {"composer": 3, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hmix13", "opp_id": 19319, "rel": 2, "is_opportunity": true, "by": {"composer": 3, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix13", "opp_id": 20145, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix13", "opp_id": 24710, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix14", "opp_id": 12222, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hmix14", "opp_id": 12290, "rel": 0.333, "is_opportunity": true, "by": {"composer": 1, "grok": 0, "gpt-review": 0}, "reused_from": "v1b"}
+{"qid": "hmix14", "opp_id": 12525, "rel": 0.5, "is_opportunity": true, "by": {"composer": 0, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix14", "opp_id": 12614, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix14", "opp_id": 12692, "rel": 0, "is_opportunity": false, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix14", "opp_id": 12722, "rel": 0, "is_opportunity": false, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix14", "opp_id": 20769, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix14", "opp_id": 21421, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix14", "opp_id": 21509, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix14", "opp_id": 21885, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix15", "opp_id": 7141, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix15", "opp_id": 7516, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix15", "opp_id": 18087, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix15", "opp_id": 18088, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix15", "opp_id": 18096, "rel": 0.667, "is_opportunity": true, "by": {"composer": 0, "grok": 1, "gpt-review": 1}, "reused_from": "v1b"}
+{"qid": "hmix15", "opp_id": 18098, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix15", "opp_id": 18105, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix15", "opp_id": 18108, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix15", "opp_id": 18109, "rel": 1, "is_opportunity": true, "by": {"composer": 1, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix15", "opp_id": 21300, "rel": 1.5, "is_opportunity": true, "by": {"composer": 2, "grok": 1}, "reused_from": "v1b"}
+{"qid": "hmix16", "opp_id": 16312, "rel": 0, "is_opportunity": true, "by": {"composer": 0, "grok": 0}, "relabel": "payfix-20261029", "rel_before": 0.5, "reused_from": "v1b"}
+{"qid": "hmix16", "opp_id": 18867, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix16", "opp_id": 18903, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix16", "opp_id": 18912, "rel": 2, "is_opportunity": true, "by": {"composer": 2, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 2, "reused_from": "v1b"}
+{"qid": "hmix16", "opp_id": 24573, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix16", "opp_id": 24576, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix16", "opp_id": 24577, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix16", "opp_id": 24578, "rel": 1.5, "is_opportunity": true, "by": {"composer": 1, "grok": 2}, "relabel": "payfix-20261029", "rel_before": 0, "reused_from": "v1b"}
+{"qid": "hmix16", "opp_id": 24580, "rel": 0.5, "is_opportunity": true, "by": {"composer": 1, "grok": 0}, "reused_from": "v1b"}
+{"qid": "hmix16", "opp_id": 24592, "rel": 1, "is_opportunity": true, "by": {"composer": 2, "grok": 0}, "reused_from": "v1b"}

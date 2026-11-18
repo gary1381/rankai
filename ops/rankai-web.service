@@ -1,0 +1,17 @@
+# Local search page for rankai (rankai/web.py): http://127.0.0.1:8793. Listens on 127.0.0.1 only. About 230 MB
+# idle; a search uses one core here plus the e5 / reranker services and one Haiku call for the query rewrite.
+#
+# Template: install with ops/install.sh, or copy to ~/.config/systemd/user/ and replace RANKAI_HOME and RANKAI_PYTHON.
+[Unit]
+Description=rankai local search page (http://127.0.0.1:8793)
+
+[Service]
+WorkingDirectory=RANKAI_HOME
+Environment=OMP_NUM_THREADS=1 PYTHONPATH=RANKAI_HOME RANKAI_ENV_FILE=%h/.config/rankai/env
+Nice=5
+ExecStart=RANKAI_PYTHON -m rankai.web
+Restart=on-failure
+RestartSec=30
+
+[Install]
+WantedBy=default.target

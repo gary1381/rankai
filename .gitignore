@@ -1,0 +1,10 @@
+# Database, backups, model files, LLM caches and saved third-party pages.
+# Postings and source pages are third-party content and are not redistributed (docs/DATA.md).
+data/
+
+# Run output: contains posting titles and links from the sources.
+logs/
+
+__pycache__/
+*.pyc
+.pytest_cache/

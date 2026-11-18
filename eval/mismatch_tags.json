@@ -1,0 +1,142 @@
+{
+ "pairs": 5319,
+ "queries": 192,
+ "by_tag": {
+  "remote": {
+   "queries_asking": 78,
+   "pairs_asking": 2105,
+   "tagged": 84,
+   "tagged_mean_rel": 0.9603214285714285,
+   "tagged_rel_ge2": 17,
+   "untagged_mean_rel": 1.0734809500247402,
+   "good_pairs": 545,
+   "good_pairs_tagged": 17,
+   "examples_tagged_but_good": [
+    {
+     "query": "远程 RAG 工程师，懂 Python 和向量数据库",
+     "opp_id": 7924,
+     "rel": 2.667,
+     "tag": "hybrid, not remote"
+    },
+    {
+     "query": "machine learning engineer for LLM fine-tuning, remote US, $180k+",
+     "opp_id": 7272,
+     "rel": 2,
+     "tag": "hybrid, not remote"
+    },
+    {
+     "query": "data engineer with Spark and Airflow, remote",
+     "opp_id": 9313,
+     "rel": 2,
+     "tag": "hybrid, not remote"
+    },
+    {
+     "query": "远程品牌设计师全职，月薪不低于2万",
+     "opp_id": 7561,
+     "rel": 2.5,
+     "tag": "hybrid, not remote"
+    },
+    {
+     "query": "远程品牌设计师全职，月薪不低于2万",
+     "opp_id": 9289,
+     "rel": 3,
+     "tag": "hybrid, not remote"
+    }
+   ]
+  },
+  "type": {
+   "queries_asking": 167,
+   "pairs_asking": 4630,
+   "tagged": 1647,
+   "tagged_mean_rel": 0.7540965391621129,
+   "tagged_rel_ge2": 97,
+   "untagged_mean_rel": 0.7398038887026483,
+   "good_pairs": 576,
+   "good_pairs_tagged": 97,
+   "examples_tagged_but_good": [
+    {
+     "query": "找兼职的前端开发，React，远程",
+     "opp_id": 10388,
+     "rel": 2,
+     "tag": "fulltime, not parttime"
+    },
+    {
+     "query": "找兼职的前端开发，React，远程",
+     "opp_id": 10431,
+     "rel": 2,
+     "tag": "fulltime, not parttime"
+    },
+    {
+     "query": "找兼职的前端开发，React，远程",
+     "opp_id": 12670,
+     "rel": 2,
+     "tag": "fulltime, not parttime"
+    },
+    {
+     "query": "找兼职的前端开发，React，远程",
+     "opp_id": 12763,
+     "rel": 2,
+     "tag": "outsourcing, not parttime"
+    },
+    {
+     "query": "外包项目：小程序开发",
+     "opp_id": 12670,
+     "rel": 2,
+     "tag": "fulltime, not outsourcing"
+    }
+   ]
+  },
+  "pay": {
+   "queries_asking": 25,
+   "pairs_asking": 675,
+   "tagged": 54,
+   "tagged_mean_rel": 0.17592592592592593,
+   "tagged_rel_ge2": 0,
+   "untagged_mean_rel": 0.9624251207729467,
+   "good_pairs": 145,
+   "good_pairs_tagged": 0,
+   "examples_tagged_but_good": []
+  },
+  "on-site": {
+   "queries_asking": 2,
+   "pairs_asking": 90,
+   "tagged": 36,
+   "tagged_mean_rel": 0.18986111111111112,
+   "tagged_rel_ge2": 0,
+   "untagged_mean_rel": 0.2037037037037037,
+   "good_pairs": 0,
+   "good_pairs_tagged": 0,
+   "examples_tagged_but_good": []
+  },
+  "place": {
+   "queries_asking": 52,
+   "pairs_asking": 1667,
+   "tagged": 900,
+   "tagged_mean_rel": 0.27758555555555553,
+   "tagged_rel_ge2": 3,
+   "untagged_mean_rel": 0.5154315514993482,
+   "good_pairs": 64,
+   "good_pairs_tagged": 3,
+   "examples_tagged_but_good": [
+    {
+     "query": "full-time operations lead, Southeast Asia",
+     "opp_id": 3324,
+     "rel": 2,
+     "tag": "in Seoul, Korea, not Southeast Asia"
+    },
+    {
+     "query": "full-time operations lead, Southeast Asia",
+     "opp_id": 19267,
+     "rel": 2.5,
+     "tag": "remote from United States, not Southeast Asia"
+    },
+    {
+     "query": "东京 full-time 日语客服，会英语",
+     "opp_id": 17900,
+     "rel": 2,
+     "tag": "remote from United States, not Tokyo, Japan"
+    }
+   ]
+  }
+ }
+}

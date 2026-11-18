@@ -1,0 +1,93 @@
+{
+ "J": {
+  "old": {
+   "all": {
+    "queries": 48,
+    "covered": 34,
+    "good_in_top10": 3.02,
+    "P@5": 0.333
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 12,
+    "good_in_top10": 3.06,
+    "P@5": 0.325
+   },
+   "en": {
+    "queries": 16,
+    "covered": 11,
+    "good_in_top10": 3.44,
+    "P@5": 0.388
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 11,
+    "good_in_top10": 2.56,
+    "P@5": 0.288
+   },
+   "no buyer": {
+    "queries": 42,
+    "covered": 30,
+    "good_in_top10": 3.33,
+    "P@5": 0.362
+   }
+  },
+  "new": {
+   "all": {
+    "queries": 48,
+    "covered": 35,
+    "good_in_top10": 3.21,
+    "P@5": 0.354
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 12,
+    "good_in_top10": 3.31,
+    "P@5": 0.35
+   },
+   "en": {
+    "queries": 16,
+    "covered": 11,
+    "good_in_top10": 3.5,
+    "P@5": 0.375
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 12,
+    "good_in_top10": 2.81,
+    "P@5": 0.338
+   },
+   "no buyer": {
+    "queries": 42,
+    "covered": 31,
+    "good_in_top10": 3.52,
+    "P@5": 0.386
+   }
+  },
+  "newly_covered": [
+   "hmix10 广州 PR 实习生",
+   "hzh10 成都 实验助理 实习"
+  ],
+  "lost": [
+   "hzh09 远程自由职业中英翻译，按千字结算"
+  ],
+  "mcnemar_p": 1.0,
+  "mcnemar_p_no_buyer": 1.0,
+  "p5_signflip_p": 0.6360681965901704,
+  "good_by_source": {
+   "himalayas": 95,
+   "ncss": 19,
+   "greenhouse": 11,
+   "github": 10,
+   "ashby": 4,
+   "arbeitnow": 3,
+   "wwr": 3,
+   "jobicy": 3,
+   "hn": 2,
+   "rubychina": 1,
+   "remotive": 1,
+   "smartrecruiters": 1,
+   "v2ex": 1
+  }
+ }
+}

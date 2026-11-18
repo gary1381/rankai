@@ -1,0 +1,10 @@
+# Runtime
+anthropic>=2.6          # Claude Haiku query rewrite and posting labels (rankai/llm.py)
+mcp>=2.3                # MCP server (rankai/mcp_server.py uses mcp.server.mcpserver)
+numpy>=1.26
+scikit-learn==1.4.2     # the learned ranker L; rebuild data/ltr_gbm_*.pkl after upgrading
+# Evaluation and charts
+scipy>=1.13
+matplotlib>=3.8
+# Tests
+pytest>=8

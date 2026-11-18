@@ -1,0 +1,23 @@
+{
+ "items": 480,
+ "labeled": 480,
+ "reused": 425,
+ "missing": 0,
+ "composer_vs_grok": {
+  "n": 55,
+  "exact": 0.727,
+  "within1": 0.982,
+  "weighted_kappa": 0.468
+ },
+ "gpt_reviewed": 0,
+ "rel_distribution": {
+  "0-1": 246,
+  "1-2": 184,
+  "2-3": 44,
+  "3-4": 6
+ },
+ "not_opportunity": 7,
+ "spread_ge2": [
+  "kzh11:15610"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "items": 735,
+ "labeled": 735,
+ "reused": 163,
+ "missing": 0,
+ "composer_vs_grok": {
+  "n": 572,
+  "exact": 0.712,
+  "within1": 0.974,
+  "weighted_kappa": 0.562
+ },
+ "gpt_reviewed": 0,
+ "rel_distribution": {
+  "0-1": 538,
+  "1-2": 171,
+  "2-3": 26,
+  "3-4": 0
+ },
+ "not_opportunity": 14,
+ "spread_ge2": [
+  "gzh05:9968",
+  "gzh05:10228",
+  "gen01:3842",
+  "gen01:10902",
+  "gen04:3049",
+  "gen15:9997",
+  "gen15:10427",
+  "gen15:10630",
+  "gen16:3845",
+  "gen16:4019",
+  "gen16:9581",
+  "gmix01:10366",
+  "gmix02:4023",
+  "gmix06:11181",
+  "gmix12:12109"
+ ]
+}

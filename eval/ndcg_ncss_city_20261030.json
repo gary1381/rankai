@@ -1,0 +1,26 @@
+{
+ "v1b->v1c": {
+  "diff": 0.0281,
+  "queries": 47,
+  "better": 14,
+  "same": 21,
+  "worse": 12,
+  "p": 0.1008
+ },
+ "v2->v2c": {
+  "diff": 0.0006,
+  "queries": 44,
+  "better": 10,
+  "same": 22,
+  "worse": 12,
+  "p": 0.9742
+ },
+ "v1b+v2 -> v1c+v2c": {
+  "diff": 0.0148,
+  "queries": 91,
+  "better": 24,
+  "same": 43,
+  "worse": 24,
+  "p": 0.2143
+ }
+}

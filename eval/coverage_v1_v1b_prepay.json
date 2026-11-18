@@ -1,0 +1,90 @@
+{
+ "F": {
+  "old": {
+   "all": {
+    "queries": 48,
+    "covered": 22,
+    "good_in_top10": 1.33,
+    "P@5": 0.188
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 9,
+    "good_in_top10": 1.69,
+    "P@5": 0.225
+   },
+   "en": {
+    "queries": 16,
+    "covered": 7,
+    "good_in_top10": 1.25,
+    "P@5": 0.2
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.06,
+    "P@5": 0.138
+   }
+  },
+  "new": {
+   "all": {
+    "queries": 48,
+    "covered": 34,
+    "good_in_top10": 3.4,
+    "P@5": 0.404
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 12,
+    "good_in_top10": 3.38,
+    "P@5": 0.412
+   },
+   "en": {
+    "queries": 16,
+    "covered": 11,
+    "good_in_top10": 4.0,
+    "P@5": 0.438
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 11,
+    "good_in_top10": 2.81,
+    "P@5": 0.362
+   }
+  },
+  "newly_covered": [
+   "hen02 Toronto staff accountant, full-time, CAD 75k a year",
+   "hen06 part-time remote podcast editor",
+   "hen09 contract bookkeeper, 10 hours a week, remote",
+   "hen14 open-source bounty: fix a race in a Go CLI",
+   "hmix05 深圳 full-time 机械工程师",
+   "hmix06 兼职 remote 社区运营，晚上可上线",
+   "hmix08 freelance 插画师，remote 按张结算",
+   "hmix12 外包 logo 设计，需要源文件交付",
+   "hmix13 把 ERP 实施整包 outsource 出去",
+   "hzh02 武汉 游戏策划 全职",
+   "hzh03 杭州财务会计全职，月薪1.5万起",
+   "hzh13 培训课件 整包外包",
+   "hzh14 开源悬赏：修一个 Vue 组件 bug"
+  ],
+  "lost": [
+   "hzh09 远程自由职业中英翻译，按千字结算"
+  ],
+  "mcnemar_p": 0.0018310546875,
+  "p5_signflip_p": 4.999750012499375e-05,
+  "good_by_source": {
+   "himalayas": 111,
+   "greenhouse": 12,
+   "github": 10,
+   "ncss": 9,
+   "ashby": 5,
+   "arbeitnow": 3,
+   "wwr": 3,
+   "jobicy": 3,
+   "remotive": 2,
+   "hn": 2,
+   "smartrecruiters": 2,
+   "v2ex": 1
+  }
+ }
+}

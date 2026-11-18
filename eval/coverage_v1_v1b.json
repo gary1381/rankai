@@ -1,0 +1,173 @@
+{
+ "F": {
+  "old": {
+   "all": {
+    "queries": 48,
+    "covered": 21,
+    "good_in_top10": 1.19,
+    "P@5": 0.167
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 8,
+    "good_in_top10": 1.44,
+    "P@5": 0.2
+   },
+   "en": {
+    "queries": 16,
+    "covered": 7,
+    "good_in_top10": 1.12,
+    "P@5": 0.175
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.0,
+    "P@5": 0.125
+   }
+  },
+  "new": {
+   "all": {
+    "queries": 48,
+    "covered": 33,
+    "good_in_top10": 3.17,
+    "P@5": 0.375
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 11,
+    "good_in_top10": 2.88,
+    "P@5": 0.362
+   },
+   "en": {
+    "queries": 16,
+    "covered": 11,
+    "good_in_top10": 3.69,
+    "P@5": 0.4
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 11,
+    "good_in_top10": 2.94,
+    "P@5": 0.363
+   }
+  },
+  "newly_covered": [
+   "hen02 Toronto staff accountant, full-time, CAD 75k a year",
+   "hen06 part-time remote podcast editor",
+   "hen09 contract bookkeeper, 10 hours a week, remote",
+   "hen14 open-source bounty: fix a race in a Go CLI",
+   "hmix05 深圳 full-time 机械工程师",
+   "hmix06 兼职 remote 社区运营，晚上可上线",
+   "hmix08 freelance 插画师，remote 按张结算",
+   "hmix12 外包 logo 设计，需要源文件交付",
+   "hmix13 把 ERP 实施整包 outsource 出去",
+   "hzh02 武汉 游戏策划 全职",
+   "hzh13 培训课件 整包外包",
+   "hzh14 开源悬赏：修一个 Vue 组件 bug"
+  ],
+  "lost": [],
+  "mcnemar_p": 0.00048828125,
+  "p5_signflip_p": 4.999750012499375e-05,
+  "good_by_source": {
+   "himalayas": 109,
+   "github": 10,
+   "greenhouse": 8,
+   "ncss": 5,
+   "ashby": 4,
+   "arbeitnow": 3,
+   "wwr": 3,
+   "jobicy": 3,
+   "remotive": 2,
+   "hn": 2,
+   "smartrecruiters": 2,
+   "v2ex": 1
+  }
+ },
+ "H": {
+  "old": {
+   "all": {
+    "queries": 48,
+    "covered": 19,
+    "good_in_top10": 1.12,
+    "P@5": 0.154
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 7,
+    "good_in_top10": 1.38,
+    "P@5": 0.188
+   },
+   "en": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 1.19,
+    "P@5": 0.163
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 6,
+    "good_in_top10": 0.81,
+    "P@5": 0.113
+   }
+  },
+  "new": {
+   "all": {
+    "queries": 48,
+    "covered": 32,
+    "good_in_top10": 3.33,
+    "P@5": 0.375
+   },
+   "zh": {
+    "queries": 16,
+    "covered": 10,
+    "good_in_top10": 3.06,
+    "P@5": 0.4
+   },
+   "en": {
+    "queries": 16,
+    "covered": 11,
+    "good_in_top10": 3.5,
+    "P@5": 0.338
+   },
+   "mix": {
+    "queries": 16,
+    "covered": 11,
+    "good_in_top10": 3.44,
+    "P@5": 0.388
+   }
+  },
+  "newly_covered": [
+   "hen02 Toronto staff accountant, full-time, CAD 75k a year",
+   "hen06 part-time remote podcast editor",
+   "hen09 contract bookkeeper, 10 hours a week, remote",
+   "hen14 open-source bounty: fix a race in a Go CLI",
+   "hen16 I want a full-time remote science editor, at least $60k a year",
+   "hmix05 深圳 full-time 机械工程师",
+   "hmix06 兼职 remote 社区运营，晚上可上线",
+   "hmix08 freelance 插画师，remote 按张结算",
+   "hmix12 外包 logo 设计，需要源文件交付",
+   "hmix13 把 ERP 实施整包 outsource 出去",
+   "hzh02 武汉 游戏策划 全职",
+   "hzh09 远程自由职业中英翻译，按千字结算",
+   "hzh14 开源悬赏：修一个 Vue 组件 bug"
+  ],
+  "lost": [],
+  "mcnemar_p": 0.000244140625,
+  "p5_signflip_p": 9.99950002499875e-05,
+  "good_by_source": {
+   "himalayas": 113,
+   "github": 12,
+   "greenhouse": 11,
+   "ashby": 4,
+   "jobicy": 4,
+   "ncss": 4,
+   "arbeitnow": 3,
+   "wwr": 3,
+   "hn": 2,
+   "smartrecruiters": 2,
+   "rubychina": 1,
+   "remotive": 1
+  }
+ }
+}

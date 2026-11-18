@@ -1,0 +1,1528 @@
+{
+ "queries": 96,
+ "covered": 53,
+ "by_category": {
+  "local": {
+   "covered": 10,
+   "queries": 32
+  },
+  "project outsourcing": {
+   "covered": 5,
+   "queries": 12
+  },
+  "co-founder": {
+   "covered": 1,
+   "queries": 6
+  },
+  "bounty": {
+   "covered": 2,
+   "queries": 6
+  },
+  "remote, other": {
+   "covered": 35,
+   "queries": 40
+  }
+ },
+ "by_lang": {
+  "zh": {
+   "covered": 17,
+   "queries": 32
+  },
+  "en": {
+   "covered": 18,
+   "queries": 32
+  },
+  "mix": {
+   "covered": 18,
+   "queries": 32
+  }
+ },
+ "by_remote": {
+  "not remote": {
+   "covered": 18,
+   "queries": 56
+  },
+  "remote": {
+   "covered": 35,
+   "queries": 40
+  }
+ },
+ "by_location": {
+  "no location": {
+   "covered": 42,
+   "queries": 63
+  },
+  "location named": {
+   "covered": 11,
+   "queries": 33
+  }
+ },
+ "by_kinds": {
+  "fulltime": {
+   "covered": 25,
+   "queries": 34
+  },
+  "outsourcing": {
+   "covered": 7,
+   "queries": 14
+  },
+  "parttime": {
+   "covered": 4,
+   "queries": 12
+  },
+  "internship": {
+   "covered": 5,
+   "queries": 12
+  },
+  "contract,outsourcing,parttime": {
+   "covered": 8,
+   "queries": 10
+  },
+  "bounty": {
+   "covered": 2,
+   "queries": 6
+  },
+  "cofounder": {
+   "covered": 1,
+   "queries": 6
+  },
+  "fulltime,outsourcing": {
+   "covered": 0,
+   "queries": 1
+  },
+  "contract,fulltime,outsourcing,parttime": {
+   "covered": 1,
+   "queries": 1
+  }
+ },
+ "local_supply": {
+  "wuhan": {
+   "postings": 0,
+   "by_source": {},
+   "queries": {
+    "hzh02": true
+   }
+  },
+  "hangzhou": {
+   "postings": 0,
+   "by_source": {},
+   "queries": {
+    "hzh03": false,
+    "gmix07": false
+   }
+  },
+  "south china (华南)": {
+   "postings": 0,
+   "by_source": {},
+   "queries": {
+    "hzh04": true
+   }
+  },
+  "beijing": {
+   "postings": 31,
+   "by_source": {
+    "ncss": 19,
+    "greenhouse": 12
+   },
+   "queries": {
+    "hzh07": false
+   }
+  },
+  "chengdu": {
+   "postings": 5,
+   "by_source": {
+    "smartrecruiters": 5
+   },
+   "queries": {
+    "hzh10": false,
+    "hmix07": false,
+    "gzh02": false,
+    "gzh10": false
+   }
+  },
+  "toronto": {
+   "postings": 320,
+   "by_source": {
+    "greenhouse": 249,
+    "ashby": 57,
+    "smartrecruiters": 9,
+    "hn": 3,
+    "lever": 2
+   },
+   "queries": {
+    "hen02": true
+   }
+  },
+  "southeast asia": {
+   "postings": 0,
+   "by_source": {},
+   "queries": {
+    "hen03": true
+   }
+  },
+  "chicago": {
+   "postings": 322,
+   "by_source": {
+    "greenhouse": 293,
+    "ashby": 19,
+    "smartrecruiters": 8,
+    "hn": 2
+   },
+   "queries": {
+    "hen05": false
+   }
+  },
+  "london": {
+   "postings": 858,
+   "by_source": {
+    "greenhouse": 495,
+    "ashby": 176,
+    "arbeitnow": 122,
+    "lever": 37,
+    "smartrecruiters": 16,
+    "hn": 12
+   },
+   "queries": {
+    "hen07": false
+   }
+  },
+  "dublin": {
+   "postings": 311,
+   "by_source": {
+    "greenhouse": 241,
+    "ashby": 63,
+    "smartrecruiters": 6,
+    "hn": 1
+   },
+   "queries": {
+    "hen10": false,
+    "gmix03": false
+   }
+  },
+  "singapore": {
+   "postings": 312,
+   "by_source": {
+    "greenhouse": 173,
+    "ashby": 77,
+    "jobicy": 25,
+    "himalayas": 18,
+    "smartrecruiters": 17,
+    "remotive": 2
+   },
+   "queries": {
+    "hmix02": true
+   }
+  },
+  "tokyo": {
+   "postings": 179,
+   "by_source": {
+    "greenhouse": 117,
+    "ashby": 57,
+    "lever": 2,
+    "hn": 2,
+    "smartrecruiters": 1
+   },
+   "queries": {
+    "hmix03": true
+   }
+  },
+  "shenzhen": {
+   "postings": 23,
+   "by_source": {
+    "smartrecruiters": 21,
+    "greenhouse": 2
+   },
+   "queries": {
+    "hmix05": true
+   }
+  },
+  "guangzhou": {
+   "postings": 0,
+   "by_source": {},
+   "queries": {
+    "hmix10": false,
+    "gzh03": true
+   }
+  },
+  "nanjing": {
+   "postings": 0,
+   "by_source": {},
+   "queries": {
+    "gzh05": false
+   }
+  },
+  "suzhou": {
+   "postings": 0,
+   "by_source": {},
+   "queries": {
+    "gzh06": false
+   }
+  },
+  "shanghai": {
+   "postings": 28,
+   "by_source": {
+    "ncss": 22,
+    "smartrecruiters": 4,
+    "greenhouse": 2
+   },
+   "queries": {
+    "gzh09": false
+   }
+  },
+  "denver": {
+   "postings": 85,
+   "by_source": {
+    "greenhouse": 82,
+    "smartrecruiters": 2,
+    "ashby": 1
+   },
+   "queries": {
+    "gen02": false
+   }
+  },
+  "boston": {
+   "postings": 121,
+   "by_source": {
+    "greenhouse": 84,
+    "ashby": 22,
+    "smartrecruiters": 10,
+    "hn": 3,
+    "lever": 2
+   },
+   "queries": {
+    "gen03": true
+   }
+  },
+  "new zealand": {
+   "postings": 30,
+   "by_source": {
+    "jobicy": 18,
+    "himalayas": 8,
+    "greenhouse": 4
+   },
+   "queries": {
+    "gen05": false
+   }
+  },
+  "edinburgh": {
+   "postings": 5,
+   "by_source": {
+    "greenhouse": 3,
+    "arbeitnow": 2
+   },
+   "queries": {
+    "gen06": false
+   }
+  },
+  "austin": {
+   "postings": 85,
+   "by_source": {
+    "greenhouse": 67,
+    "smartrecruiters": 8,
+    "hn": 6,
+    "ashby": 4
+   },
+   "queries": {
+    "gen09": true
+   }
+  },
+  "philadelphia": {
+   "postings": 20,
+   "by_source": {
+    "greenhouse": 15,
+    "smartrecruiters": 4,
+    "ashby": 1
+   },
+   "queries": {
+    "gen10": false
+   }
+  },
+  "taipei": {
+   "postings": 723,
+   "by_source": {
+    "taiwanjobs": 717,
+    "greenhouse": 6
+   },
+   "queries": {
+    "gmix02": false
+   }
+  },
+  "osaka": {
+   "postings": 4,
+   "by_source": {
+    "greenhouse": 4
+   },
+   "queries": {
+    "gmix05": false
+   }
+  },
+  "melbourne": {
+   "postings": 15,
+   "by_source": {
+    "greenhouse": 12,
+    "smartrecruiters": 3
+   },
+   "queries": {
+    "gmix10": false
+   }
+  }
+ },
+ "rows": [
+  {
+   "qid": "hzh01",
+   "set": "v1",
+   "lang": "zh",
+   "query": "远程品牌设计师全职，月薪不低于2万",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hzh02",
+   "set": "v1",
+   "lang": "zh",
+   "query": "武汉 游戏策划 全职",
+   "remote": false,
+   "location": "Wuhan, China",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "hzh03",
+   "set": "v1",
+   "lang": "zh",
+   "query": "杭州财务会计全职，月薪1.5万起",
+   "remote": false,
+   "location": "Hangzhou, China",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 0.5,
+   "covered": false
+  },
+  {
+   "qid": "hzh04",
+   "set": "v1",
+   "lang": "zh",
+   "query": "华南区销售经理全职，带团队",
+   "remote": false,
+   "location": "South China (华南), China",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "hzh05",
+   "set": "v1",
+   "lang": "zh",
+   "query": "全职远程 Android 开发，要求 Kotlin",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hzh06",
+   "set": "v1",
+   "lang": "zh",
+   "query": "兼职远程英语家教，晚间可上课",
+   "remote": true,
+   "location": null,
+   "kinds": "parttime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hzh07",
+   "set": "v1",
+   "lang": "zh",
+   "query": "北京兼职新媒体运营，周末到岗",
+   "remote": false,
+   "location": "Beijing, China",
+   "kinds": "parttime",
+   "category": "local",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "hzh08",
+   "set": "v1",
+   "lang": "zh",
+   "query": "商业摄影接单，可全程远程",
+   "remote": true,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "remote, other",
+   "best_rel": 2.67,
+   "covered": true
+  },
+  {
+   "qid": "hzh09",
+   "set": "v1",
+   "lang": "zh",
+   "query": "远程自由职业中英翻译，按千字结算",
+   "remote": true,
+   "location": null,
+   "kinds": "contract,outsourcing,parttime",
+   "category": "remote, other",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "hzh10",
+   "set": "v1",
+   "lang": "zh",
+   "query": "成都 实验助理 实习",
+   "remote": false,
+   "location": "Chengdu, China",
+   "kinds": "internship",
+   "category": "local",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "hzh11",
+   "set": "v1",
+   "lang": "zh",
+   "query": "远程招聘专员实习，熟悉招聘网站",
+   "remote": true,
+   "location": null,
+   "kinds": "internship",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hzh12",
+   "set": "v1",
+   "lang": "zh",
+   "query": "外包：企业官网改版，交钥匙交付",
+   "remote": false,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "project outsourcing",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "hzh13",
+   "set": "v1",
+   "lang": "zh",
+   "query": "培训课件 整包外包",
+   "remote": false,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "project outsourcing",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "hzh14",
+   "set": "v1",
+   "lang": "zh",
+   "query": "开源悬赏：修一个 Vue 组件 bug",
+   "remote": false,
+   "location": null,
+   "kinds": "bounty",
+   "category": "bounty",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "hzh15",
+   "set": "v1",
+   "lang": "zh",
+   "query": "找运营合伙人，一起做教育品牌",
+   "remote": false,
+   "location": null,
+   "kinds": "cofounder",
+   "category": "co-founder",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "hzh16",
+   "set": "v1",
+   "lang": "zh",
+   "query": "我想找全职远程用户研究的工作，会做访谈，月薪两万起",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hen01",
+   "set": "v1",
+   "lang": "en",
+   "query": "full-time remote technical recruiter, $70k+ per year",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hen02",
+   "set": "v1",
+   "lang": "en",
+   "query": "Toronto staff accountant, full-time, CAD 75k a year",
+   "remote": false,
+   "location": "Toronto, Ontario, Canada",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "hen03",
+   "set": "v1",
+   "lang": "en",
+   "query": "full-time operations lead, Southeast Asia",
+   "remote": false,
+   "location": "Southeast Asia",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hen04",
+   "set": "v1",
+   "lang": "en",
+   "query": "full-time remote Ruby on Rails developer",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hen05",
+   "set": "v1",
+   "lang": "en",
+   "query": "Chicago clinical research coordinator, full-time",
+   "remote": false,
+   "location": "Chicago, IL, USA",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 1.33,
+   "covered": false
+  },
+  {
+   "qid": "hen06",
+   "set": "v1",
+   "lang": "en",
+   "query": "part-time remote podcast editor",
+   "remote": true,
+   "location": null,
+   "kinds": "parttime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hen07",
+   "set": "v1",
+   "lang": "en",
+   "query": "weekend part-time retail buyer, London",
+   "remote": false,
+   "location": "London",
+   "kinds": "parttime",
+   "category": "local",
+   "best_rel": 1,
+   "covered": false
+  },
+  {
+   "qid": "hen08",
+   "set": "v1",
+   "lang": "en",
+   "query": "freelance copywriter for email campaigns, remote",
+   "remote": true,
+   "location": null,
+   "kinds": "contract,outsourcing,parttime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hen09",
+   "set": "v1",
+   "lang": "en",
+   "query": "contract bookkeeper, 10 hours a week, remote",
+   "remote": true,
+   "location": null,
+   "kinds": "contract,outsourcing,parttime",
+   "category": "remote, other",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "hen10",
+   "set": "v1",
+   "lang": "en",
+   "query": "marketing internship in Dublin",
+   "remote": false,
+   "location": "Dublin",
+   "kinds": "internship",
+   "category": "local",
+   "best_rel": 1.33,
+   "covered": false
+  },
+  {
+   "qid": "hen11",
+   "set": "v1",
+   "lang": "en",
+   "query": "remote HR internship",
+   "remote": true,
+   "location": null,
+   "kinds": "internship",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hen12",
+   "set": "v1",
+   "lang": "en",
+   "query": "outsource a trade-show booth design, turnkey",
+   "remote": false,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "project outsourcing",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "hen13",
+   "set": "v1",
+   "lang": "en",
+   "query": "outsource payroll data migration, fixed bid",
+   "remote": false,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "project outsourcing",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "hen14",
+   "set": "v1",
+   "lang": "en",
+   "query": "open-source bounty: fix a race in a Go CLI",
+   "remote": false,
+   "location": null,
+   "kinds": "bounty",
+   "category": "bounty",
+   "best_rel": 2.33,
+   "covered": true
+  },
+  {
+   "qid": "hen15",
+   "set": "v1",
+   "lang": "en",
+   "query": "seeking a sales co-founder for a climate startup",
+   "remote": false,
+   "location": null,
+   "kinds": "cofounder",
+   "category": "co-founder",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "hen16",
+   "set": "v1",
+   "lang": "en",
+   "query": "I want a full-time remote science editor, at least $60k a year",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hmix01",
+   "set": "v1",
+   "lang": "mix",
+   "query": "全职 remote UX writer，月薪 18k 起",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hmix02",
+   "set": "v1",
+   "lang": "mix",
+   "query": "新加坡 full-time 税务专员",
+   "remote": false,
+   "location": "Singapore",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "hmix03",
+   "set": "v1",
+   "lang": "mix",
+   "query": "东京 full-time 日语客服，会英语",
+   "remote": false,
+   "location": "Tokyo, Japan",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hmix04",
+   "set": "v1",
+   "lang": "mix",
+   "query": "全职 remote CRM 管理员",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "hmix05",
+   "set": "v1",
+   "lang": "mix",
+   "query": "深圳 full-time 机械工程师",
+   "remote": false,
+   "location": "Shenzhen, China",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "hmix06",
+   "set": "v1",
+   "lang": "mix",
+   "query": "兼职 remote 社区运营，晚上可上线",
+   "remote": true,
+   "location": null,
+   "kinds": "parttime",
+   "category": "remote, other",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "hmix07",
+   "set": "v1",
+   "lang": "mix",
+   "query": "成都 part-time 钢琴老师",
+   "remote": false,
+   "location": "Chengdu, China",
+   "kinds": "parttime",
+   "category": "local",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "hmix08",
+   "set": "v1",
+   "lang": "mix",
+   "query": "freelance 插画师，remote 按张结算",
+   "remote": true,
+   "location": null,
+   "kinds": "contract,outsourcing,parttime",
+   "category": "remote, other",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "hmix09",
+   "set": "v1",
+   "lang": "mix",
+   "query": "contract 法律顾问，月薪 2万起，remote",
+   "remote": true,
+   "location": null,
+   "kinds": "contract,outsourcing,parttime",
+   "category": "remote, other",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "hmix10",
+   "set": "v1",
+   "lang": "mix",
+   "query": "广州 PR 实习生",
+   "remote": false,
+   "location": "Guangzhou, China",
+   "kinds": "internship",
+   "category": "local",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "hmix11",
+   "set": "v1",
+   "lang": "mix",
+   "query": "remote 产品运营实习，会 SQL 和表格",
+   "remote": true,
+   "location": null,
+   "kinds": "internship",
+   "category": "remote, other",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "hmix12",
+   "set": "v1",
+   "lang": "mix",
+   "query": "外包 logo 设计，需要源文件交付",
+   "remote": false,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "project outsourcing",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "hmix13",
+   "set": "v1",
+   "lang": "mix",
+   "query": "把 ERP 实施整包 outsource 出去",
+   "remote": false,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "project outsourcing",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "hmix14",
+   "set": "v1",
+   "lang": "mix",
+   "query": "开源 bounty: 修 Flutter 内存泄漏",
+   "remote": false,
+   "location": null,
+   "kinds": "bounty",
+   "category": "bounty",
+   "best_rel": 1.33,
+   "covered": false
+  },
+  {
+   "qid": "hmix15",
+   "set": "v1",
+   "lang": "mix",
+   "query": "找 growth 合伙人，一起做消费品牌",
+   "remote": false,
+   "location": null,
+   "kinds": "cofounder",
+   "category": "co-founder",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "hmix16",
+   "set": "v1",
+   "lang": "mix",
+   "query": "想找一份 full-time remote 的教研，会做课程，年薪 20 万起",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "gzh01",
+   "set": "v2",
+   "lang": "zh",
+   "query": "全职远程供应链计划专员，熟悉跨境电商，月薪1.8万起",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "gzh02",
+   "set": "v2",
+   "lang": "zh",
+   "query": "成都全职室内设计师，能独立跟进商业空间项目",
+   "remote": false,
+   "location": "Chengdu, China",
+   "kinds": "fulltime,outsourcing",
+   "category": "local",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gzh03",
+   "set": "v2",
+   "lang": "zh",
+   "query": "广州全职法务专员，熟悉劳动合同和知识产权",
+   "remote": false,
+   "location": "Guangzhou, China",
+   "kinds": "contract,fulltime,outsourcing,parttime",
+   "category": "local",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "gzh04",
+   "set": "v2",
+   "lang": "zh",
+   "query": "全职远程电商售后主管，带过10人客服团队",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "gzh05",
+   "set": "v2",
+   "lang": "zh",
+   "query": "南京全职财务分析师，熟练做预算和经营报表，年薪25万起",
+   "remote": false,
+   "location": "Nanjing, China",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 1,
+   "covered": false
+  },
+  {
+   "qid": "gzh06",
+   "set": "v2",
+   "lang": "zh",
+   "query": "周末兼职宠物美容师，苏州，按小时结算",
+   "remote": false,
+   "location": "Suzhou, China",
+   "kinds": "parttime",
+   "category": "local",
+   "best_rel": 0.5,
+   "covered": false
+  },
+  {
+   "qid": "gzh07",
+   "set": "v2",
+   "lang": "zh",
+   "query": "兼职远程中文校对，熟悉学术论文格式",
+   "remote": true,
+   "location": null,
+   "kinds": "parttime",
+   "category": "remote, other",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gzh08",
+   "set": "v2",
+   "lang": "zh",
+   "query": "接远程品牌命名和中文文案项目，按项目报价",
+   "remote": true,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "remote, other",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "gzh09",
+   "set": "v2",
+   "lang": "zh",
+   "query": "上海短期合同展会执行，能出差并协调供应商",
+   "remote": false,
+   "location": "Shanghai, China",
+   "kinds": "contract,outsourcing,parttime",
+   "category": "local",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gzh10",
+   "set": "v2",
+   "lang": "zh",
+   "query": "成都博物馆教育活动实习生，周内到岗",
+   "remote": false,
+   "location": "Chengdu, China",
+   "kinds": "internship",
+   "category": "local",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gzh11",
+   "set": "v2",
+   "lang": "zh",
+   "query": "深圳远程用户增长实习，懂 Excel 和问卷分析",
+   "remote": true,
+   "location": "Shenzhen",
+   "kinds": "internship",
+   "category": "remote, other",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "gzh12",
+   "set": "v2",
+   "lang": "zh",
+   "query": "外包员工入职培训视频制作，含脚本、拍摄和剪辑",
+   "remote": false,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "project outsourcing",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gzh13",
+   "set": "v2",
+   "lang": "zh",
+   "query": "找团队整包做食品包装设计和印刷打样",
+   "remote": false,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "project outsourcing",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gzh14",
+   "set": "v2",
+   "lang": "zh",
+   "query": "开源悬赏：给 PostgreSQL 监控面板补无障碍支持",
+   "remote": false,
+   "location": null,
+   "kinds": "bounty",
+   "category": "bounty",
+   "best_rel": 1,
+   "covered": false
+  },
+  {
+   "qid": "gzh15",
+   "set": "v2",
+   "lang": "zh",
+   "query": "找懂渠道的合伙人，共同经营独立咖啡品牌",
+   "remote": false,
+   "location": null,
+   "kinds": "cofounder",
+   "category": "co-founder",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gzh16",
+   "set": "v2",
+   "lang": "zh",
+   "query": "远程全职气候政策研究助理，会整理访谈和写报告",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gen01",
+   "set": "v2",
+   "lang": "en",
+   "query": "full-time remote compensation analyst, $85k minimum",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "gen02",
+   "set": "v2",
+   "lang": "en",
+   "query": "Denver full-time exhibit designer for museums and public spaces",
+   "remote": false,
+   "location": "Denver, CO",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gen03",
+   "set": "v2",
+   "lang": "en",
+   "query": "full-time bilingual medical interpreter, Boston area",
+   "remote": false,
+   "location": "Boston, MA, USA (Boston area)",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "gen04",
+   "set": "v2",
+   "lang": "en",
+   "query": "remote full-time lifecycle marketing manager for a subscription brand",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  },
+  {
+   "qid": "gen05",
+   "set": "v2",
+   "lang": "en",
+   "query": "full-time school counselor in New Zealand, NZD 90k+",
+   "remote": false,
+   "location": "New Zealand",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 1,
+   "covered": false
+  },
+  {
+   "qid": "gen06",
+   "set": "v2",
+   "lang": "en",
+   "query": "part-time evening museum guide, Edinburgh",
+   "remote": false,
+   "location": "Edinburgh, Scotland, UK",
+   "kinds": "parttime",
+   "category": "local",
+   "best_rel": 1,
+   "covered": false
+  },
+  {
+   "qid": "gen07",
+   "set": "v2",
+   "lang": "en",
+   "query": "remote part-time grant researcher for nonprofit funding applications",
+   "remote": true,
+   "location": null,
+   "kinds": "parttime",
+   "category": "remote, other",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gen08",
+   "set": "v2",
+   "lang": "en",
+   "query": "freelance remote packaging copywriter for natural food products",
+   "remote": true,
+   "location": null,
+   "kinds": "contract,outsourcing,parttime",
+   "category": "remote, other",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "gen09",
+   "set": "v2",
+   "lang": "en",
+   "query": "six-month contract event producer in Austin, travel required",
+   "remote": false,
+   "location": "Austin, TX, USA",
+   "kinds": "contract,outsourcing,parttime",
+   "category": "local",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "gen10",
+   "set": "v2",
+   "lang": "en",
+   "query": "museum education internship in Philadelphia, hands-on workshops",
+   "remote": false,
+   "location": "Philadelphia, PA",
+   "kinds": "internship",
+   "category": "local",
+   "best_rel": 0.5,
+   "covered": false
+  },
+  {
+   "qid": "gen11",
+   "set": "v2",
+   "lang": "en",
+   "query": "remote internship in climate policy research and data visualization",
+   "remote": true,
+   "location": null,
+   "kinds": "internship",
+   "category": "remote, other",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gen12",
+   "set": "v2",
+   "lang": "en",
+   "query": "outsource a customer onboarding video series, scripting through delivery",
+   "remote": false,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "project outsourcing",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gen13",
+   "set": "v2",
+   "lang": "en",
+   "query": "looking to hand off a warehouse layout and safety audit project",
+   "remote": false,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "project outsourcing",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "gen14",
+   "set": "v2",
+   "lang": "en",
+   "query": "paid open-source issue: add screen reader support to a calendar app",
+   "remote": false,
+   "location": null,
+   "kinds": "bounty",
+   "category": "bounty",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gen15",
+   "set": "v2",
+   "lang": "en",
+   "query": "seeking a co-founder with retail experience for a refill shop",
+   "remote": false,
+   "location": null,
+   "kinds": "cofounder",
+   "category": "co-founder",
+   "best_rel": 1,
+   "covered": false
+  },
+  {
+   "qid": "gen16",
+   "set": "v2",
+   "lang": "en",
+   "query": "remote full-time learning designer for adult career training",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "gmix01",
+   "set": "v2",
+   "lang": "mix",
+   "query": "全职 remote sustainable sourcing manager，年薪 90k USD 起",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "gmix02",
+   "set": "v2",
+   "lang": "mix",
+   "query": "台北 full-time hospitality recruiter，熟悉餐饮招募",
+   "remote": false,
+   "location": "Taipei, Taiwan",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 1,
+   "covered": false
+  },
+  {
+   "qid": "gmix03",
+   "set": "v2",
+   "lang": "mix",
+   "query": "全职 Dublin fundraising officer，做过公益筹款",
+   "remote": false,
+   "location": "Dublin, Ireland",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 1,
+   "covered": false
+  },
+  {
+   "qid": "gmix04",
+   "set": "v2",
+   "lang": "mix",
+   "query": "remote full-time podcast producer，会做采访和音频后期",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "gmix05",
+   "set": "v2",
+   "lang": "mix",
+   "query": "全职大阪 bilingual tour operations coordinator，需会中文，年薪700万日元起",
+   "remote": false,
+   "location": "Osaka, Japan",
+   "kinds": "fulltime",
+   "category": "local",
+   "best_rel": 1,
+   "covered": false
+  },
+  {
+   "qid": "gmix06",
+   "set": "v2",
+   "lang": "mix",
+   "query": "part-time remote newsletter editor，周末可排版发刊",
+   "remote": true,
+   "location": null,
+   "kinds": "parttime",
+   "category": "remote, other",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "gmix07",
+   "set": "v2",
+   "lang": "mix",
+   "query": "杭州兼职 pottery instructor，周三晚带成人课程",
+   "remote": false,
+   "location": "Hangzhou",
+   "kinds": "parttime",
+   "category": "local",
+   "best_rel": 0.5,
+   "covered": false
+  },
+  {
+   "qid": "gmix08",
+   "set": "v2",
+   "lang": "mix",
+   "query": "freelance remote motion designer，做公益 campaign 短片",
+   "remote": true,
+   "location": null,
+   "kinds": "contract,outsourcing,parttime",
+   "category": "remote, other",
+   "best_rel": 2.5,
+   "covered": true
+  },
+  {
+   "qid": "gmix09",
+   "set": "v2",
+   "lang": "mix",
+   "query": "contract HR consultant，远程协助重做员工手册",
+   "remote": true,
+   "location": null,
+   "kinds": "contract,outsourcing,parttime",
+   "category": "remote, other",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gmix10",
+   "set": "v2",
+   "lang": "mix",
+   "query": "墨尔本 arts education 实习，协助策划社区活动",
+   "remote": false,
+   "location": "Melbourne, Australia",
+   "kinds": "internship",
+   "category": "local",
+   "best_rel": 0.5,
+   "covered": false
+  },
+  {
+   "qid": "gmix11",
+   "set": "v2",
+   "lang": "mix",
+   "query": "remote internship in ESG reporting，会整理供应链数据",
+   "remote": true,
+   "location": null,
+   "kinds": "internship",
+   "category": "remote, other",
+   "best_rel": 2,
+   "covered": true
+  },
+  {
+   "qid": "gmix12",
+   "set": "v2",
+   "lang": "mix",
+   "query": "想 outsource 一套餐厅菜单和店内 signage 的视觉设计",
+   "remote": false,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "project outsourcing",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gmix13",
+   "set": "v2",
+   "lang": "mix",
+   "query": "外包 payroll 流程梳理和员工培训，要求 turnkey delivery",
+   "remote": false,
+   "location": null,
+   "kinds": "outsourcing",
+   "category": "project outsourcing",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gmix14",
+   "set": "v2",
+   "lang": "mix",
+   "query": "open-source paid issue: 给 screen reader 加入地图导航支持",
+   "remote": false,
+   "location": null,
+   "kinds": "bounty",
+   "category": "bounty",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gmix15",
+   "set": "v2",
+   "lang": "mix",
+   "query": "找一位有 retail 经验的 co-founder，一起开社区杂货店",
+   "remote": false,
+   "location": null,
+   "kinds": "cofounder",
+   "category": "co-founder",
+   "best_rel": 1.5,
+   "covered": false
+  },
+  {
+   "qid": "gmix16",
+   "set": "v2",
+   "lang": "mix",
+   "query": "remote full-time instructional designer，擅长成人职业培训",
+   "remote": true,
+   "location": null,
+   "kinds": "fulltime",
+   "category": "remote, other",
+   "best_rel": 3,
+   "covered": true
+  }
+ ],
+ "no_buyer_side": {
+  "covered": 48,
+  "queries": 84
+ }
+}
